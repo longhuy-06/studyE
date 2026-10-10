@@ -9,19 +9,20 @@ import {
   ProgressReport,
   DashboardData,
 } from '../types';
+import { safeStorage } from '../utils/storage';
 
 const TOKEN_KEY = 'linguanext_token';
 
 export function getToken(): string | null {
-  return localStorage.getItem(TOKEN_KEY);
+  return safeStorage.getItem(TOKEN_KEY);
 }
 
 export function setToken(token: string) {
-  localStorage.setItem(TOKEN_KEY, token);
+  safeStorage.setItem(TOKEN_KEY, token);
 }
 
 export function removeToken() {
-  localStorage.removeItem(TOKEN_KEY);
+  safeStorage.removeItem(TOKEN_KEY);
 }
 
 export const clearToken = removeToken;
@@ -37,21 +38,35 @@ async function request<T>(endpoint: string, options: RequestInit = {}): Promise<
     headers['Authorization'] = `Bearer ${token}`;
   }
 
-  const response = await fetch(endpoint, {
-    ...options,
-    headers,
-  });
+  // Set 12s timeout to avoid permanently hanging network requests
+  const controller = new AbortController();
+  const timeoutId = setTimeout(() => controller.abort(), 12000);
 
-  if (!response.ok) {
-    let errorMsg = `Lỗi mạng (${response.status})`;
-    try {
-      const errorJson = await response.json();
-      if (errorJson.error) errorMsg = errorJson.error;
-    } catch {}
-    throw new Error(errorMsg);
+  try {
+    const response = await fetch(endpoint, {
+      ...options,
+      headers,
+      signal: options.signal || controller.signal,
+    });
+
+    if (!response.ok) {
+      let errorMsg = `Lỗi mạng (${response.status})`;
+      try {
+        const errorJson = await response.json();
+        if (errorJson && errorJson.error) errorMsg = errorJson.error;
+      } catch {}
+      throw new Error(errorMsg);
+    }
+
+    return await response.json();
+  } catch (err: any) {
+    if (err?.name === 'AbortError') {
+      throw new Error('Yêu cầu hết thời gian phản hồi (Timeout). Vui lòng thử lại.');
+    }
+    throw err;
+  } finally {
+    clearTimeout(timeoutId);
   }
-
-  return response.json();
 }
 
 export const api = {

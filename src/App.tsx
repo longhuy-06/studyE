@@ -41,6 +41,8 @@ export default function App() {
   const [profile, setProfile] = useState<LearningProfile | null>(null);
   const [loadingInitial, setLoadingInitial] = useState(true);
 
+  const [showSlowNotice, setShowSlowNotice] = useState(false);
+
   // Initialize path and session on mount
   useEffect(() => {
     const initial = normalizePath(window.location.pathname || '/');
@@ -53,26 +55,38 @@ export default function App() {
 
     initAuth();
 
+    // Show bypass notice if initial connection takes > 3.5 seconds
+    const timer = setTimeout(() => {
+      setShowSlowNotice(true);
+    }, 3500);
+
     return () => {
       window.removeEventListener('popstate', handlePopState);
+      clearTimeout(timer);
     };
   }, []);
 
   const initAuth = async () => {
-    setLoadingInitial(true);
-    const token = getToken();
-    if (token) {
-      try {
-        const data = await api.getCurrentUser();
-        setUser(data.user);
-        setProfile(data.profile);
-      } catch (err) {
-        clearToken();
-        setUser(null);
-        setProfile(null);
+    try {
+      setLoadingInitial(true);
+      const token = getToken();
+      if (token) {
+        try {
+          const data = await api.getCurrentUser();
+          setUser(data.user);
+          setProfile(data.profile);
+        } catch (err) {
+          console.warn('Phiên đăng nhập đã hết hạn hoặc không khả dụng:', err);
+          clearToken();
+          setUser(null);
+          setProfile(null);
+        }
       }
+    } catch (globalErr) {
+      console.warn('Lỗi kiểm tra phiên làm việc:', globalErr);
+    } finally {
+      setLoadingInitial(false);
     }
-    setLoadingInitial(false);
   };
 
   const navigate = (rawPath: string) => {
@@ -106,8 +120,8 @@ export default function App() {
 
   if (loadingInitial) {
     return (
-      <div className="min-h-screen bg-[#faf9ff] flex items-center justify-center font-sans">
-        <div className="text-center space-y-4">
+      <div className="min-h-screen bg-[#faf9ff] flex items-center justify-center font-sans p-4">
+        <div className="text-center space-y-4 max-w-sm">
           <div className="w-12 h-12 rounded-2xl bg-[#0650cc] text-white flex items-center justify-center mx-auto shadow-md animate-pulse">
             <span className="material-symbols-outlined text-2xl">school</span>
           </div>
@@ -115,6 +129,16 @@ export default function App() {
             <h2 className="text-base font-extrabold text-[#1b1b1f]">LinguaNext</h2>
             <p className="text-xs text-[#74777f] mt-1">Đang kết nối hệ thống học thông minh...</p>
           </div>
+          {showSlowNotice && (
+            <div className="pt-2">
+              <button
+                onClick={() => setLoadingInitial(false)}
+                className="text-xs font-medium text-[#0650cc] hover:underline cursor-pointer bg-white px-3 py-1.5 rounded-lg border border-[#e1e8ff] shadow-xs"
+              >
+                Tiếp tục vào trang chủ &rarr;
+              </button>
+            </div>
+          )}
         </div>
       </div>
     );

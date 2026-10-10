@@ -897,6 +897,20 @@
       "__v": 0,
       "createdAt": "2026-10-10T05:07:20.802Z",
       "updatedAt": "2026-10-10T05:07:20.802Z"
+    },
+    {
+      "_id": "6ac9fc38c4e2f0e70f230186",
+      "userId": "user_minh_thao_01",
+      "vocabId": "vocab_1791622200263",
+      "__v": 0,
+      "createdAt": "2026-10-10T08:50:00.280Z",
+      "isFavorite": false,
+      "lastReviewedAt": "2026-10-10T08:50:00.265Z",
+      "nextReviewText": "Ôn lại sau 10p",
+      "repetitions": 1,
+      "srsLevel": 1,
+      "status": "review",
+      "updatedAt": "2026-10-10T08:50:00.280Z"
     }
   ],
   "listeningExercises": [
@@ -2015,16 +2029,6 @@
   ],
   "activities": [
     {
-      "id": "act_1791622200267",
-      "userId": "user_minh_thao_01",
-      "type": "vocabulary",
-      "title": "Thêm từ vựng mới: \"Innovation\"",
-      "badge": "B2",
-      "scoreText": "+1 Từ mới",
-      "subText": "Sự đổi mới, sáng tạo • Đã lưu vào database",
-      "timestamp": "Vừa xong"
-    },
-    {
       "_id": "6ac9c808b698ef76518ddb2f",
       "id": "act_1791607104084",
       "userId": "user_minh_thao_01",
@@ -2330,6 +2334,20 @@
       "timestamp": "Vừa xong",
       "createdAt": "2026-10-10T08:24:03.430Z",
       "updatedAt": "2026-10-10T08:24:03.430Z",
+      "__v": 0
+    },
+    {
+      "_id": "6ac9fc38ccca615958282263",
+      "id": "act_1791622200267",
+      "userId": "user_minh_thao_01",
+      "type": "vocabulary",
+      "title": "Thêm từ vựng mới: \"Innovation\"",
+      "badge": "B2",
+      "scoreText": "+1 Từ mới",
+      "subText": "Sự đổi mới, sáng tạo • Đã lưu vào database",
+      "timestamp": "Vừa xong",
+      "createdAt": "2026-10-10T08:50:00.289Z",
+      "updatedAt": "2026-10-10T08:50:00.289Z",
       "__v": 0
     }
   ],

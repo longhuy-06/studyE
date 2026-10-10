@@ -3,6 +3,8 @@ import { PublicHeader } from '../components/layout/PublicHeader';
 import { api } from '../services/api';
 import { User, LearningProfile } from '../types';
 
+import { safeStorage } from '../utils/storage';
+
 interface LoginPageProps {
   onNavigate: (path: string) => void;
   onLoginSuccess: (user: User, profile: LearningProfile) => void;
@@ -11,14 +13,14 @@ interface LoginPageProps {
 
 export const LoginPage: React.FC<LoginPageProps> = ({ onNavigate, onLoginSuccess, isAuthenticated }) => {
   const [email, setEmail] = useState(() => {
-    return localStorage.getItem('linguanext_remembered_email') || '';
+    return safeStorage.getItem('linguanext_remembered_email') || '';
   });
   const [password, setPassword] = useState(() => {
-    return localStorage.getItem('linguanext_remembered_password') || '';
+    return safeStorage.getItem('linguanext_remembered_password') || '';
   });
   const [showPassword, setShowPassword] = useState(false);
   const [rememberMe, setRememberMe] = useState(() => {
-    const saved = localStorage.getItem('linguanext_remember_me');
+    const saved = safeStorage.getItem('linguanext_remember_me');
     return saved !== null ? saved === 'true' : true;
   });
   const [loading, setLoading] = useState(false);
@@ -34,13 +36,13 @@ export const LoginPage: React.FC<LoginPageProps> = ({ onNavigate, onLoginSuccess
     try {
       const data = await api.login(email.trim(), password);
       if (rememberMe) {
-        localStorage.setItem('linguanext_remember_me', 'true');
-        localStorage.setItem('linguanext_remembered_email', email.trim());
-        localStorage.setItem('linguanext_remembered_password', password);
+        safeStorage.setItem('linguanext_remember_me', 'true');
+        safeStorage.setItem('linguanext_remembered_email', email.trim());
+        safeStorage.setItem('linguanext_remembered_password', password);
       } else {
-        localStorage.removeItem('linguanext_remember_me');
-        localStorage.removeItem('linguanext_remembered_email');
-        localStorage.removeItem('linguanext_remembered_password');
+        safeStorage.removeItem('linguanext_remember_me');
+        safeStorage.removeItem('linguanext_remembered_email');
+        safeStorage.removeItem('linguanext_remembered_password');
       }
       onLoginSuccess(data.user, data.profile);
       onNavigate('/dashboard');
@@ -51,15 +53,15 @@ export const LoginPage: React.FC<LoginPageProps> = ({ onNavigate, onLoginSuccess
     }
   };
 
-  const hasRememberedAccount = Boolean(localStorage.getItem('linguanext_remembered_email'));
+  const hasRememberedAccount = Boolean(safeStorage.getItem('linguanext_remembered_email'));
 
   const handleClearRemembered = () => {
     setEmail('');
     setPassword('');
     setRememberMe(false);
-    localStorage.removeItem('linguanext_remember_me');
-    localStorage.removeItem('linguanext_remembered_email');
-    localStorage.removeItem('linguanext_remembered_password');
+    safeStorage.removeItem('linguanext_remember_me');
+    safeStorage.removeItem('linguanext_remembered_email');
+    safeStorage.removeItem('linguanext_remembered_password');
   };
 
   return (
