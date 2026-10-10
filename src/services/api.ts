@@ -27,6 +27,22 @@ export function removeToken() {
 
 export const clearToken = removeToken;
 
+const API_BASE = (
+  (typeof import.meta !== 'undefined' && import.meta.env && (import.meta.env.VITE_API_URL || import.meta.env.VITE_API_BASE_URL)) ||
+  ''
+).trim().replace(/\/$/, '');
+
+function resolveUrl(endpoint: string): string {
+  if (endpoint.startsWith('http://') || endpoint.startsWith('https://')) {
+    return endpoint;
+  }
+  const clean = endpoint.startsWith('/') ? endpoint : `/${endpoint}`;
+  if (API_BASE) {
+    return `${API_BASE}${clean}`;
+  }
+  return clean;
+}
+
 async function request<T>(endpoint: string, options: RequestInit = {}): Promise<T> {
   const token = getToken();
   const headers: Record<string, string> = {
@@ -42,8 +58,10 @@ async function request<T>(endpoint: string, options: RequestInit = {}): Promise<
   const controller = new AbortController();
   const timeoutId = setTimeout(() => controller.abort(), 12000);
 
+  const fullUrl = resolveUrl(endpoint);
+
   try {
-    const response = await fetch(endpoint, {
+    const response = await fetch(fullUrl, {
       ...options,
       headers,
       signal: options.signal || controller.signal,
@@ -51,6 +69,15 @@ async function request<T>(endpoint: string, options: RequestInit = {}): Promise<
 
     if (!response.ok) {
       let errorMsg = `Lỗi mạng (${response.status})`;
+      if (response.status === 405) {
+        errorMsg = `Lỗi 405 (Method Not Allowed) - Vercel chưa nhận file backend trong thư mục api/. Vui lòng kiểm tra lại cấu hình hoặc push file api/ lên Git.`;
+      } else if (response.status === 404) {
+        errorMsg = `Lỗi kết nối API (404) - Không tìm thấy dịch vụ máy chủ`;
+      } else if (response.status === 401) {
+        errorMsg = `Email hoặc mật khẩu không chính xác.`;
+      } else if (response.status === 502 || response.status === 503) {
+        errorMsg = `Máy chủ đang khởi động hoặc tạm thời gián đoạn (${response.status}). Vui lòng thử lại.`;
+      }
       try {
         const errorJson = await response.json();
         if (errorJson && errorJson.error) errorMsg = errorJson.error;
@@ -62,6 +89,9 @@ async function request<T>(endpoint: string, options: RequestInit = {}): Promise<
   } catch (err: any) {
     if (err?.name === 'AbortError') {
       throw new Error('Yêu cầu hết thời gian phản hồi (Timeout). Vui lòng thử lại.');
+    }
+    if (err instanceof TypeError && err.message?.includes('fetch')) {
+      throw new Error('Không thể kết nối tới máy chủ API. Vui lòng kiểm tra kết nối mạng hoặc biến môi trường.');
     }
     throw err;
   } finally {

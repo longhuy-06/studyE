@@ -59,6 +59,11 @@ function scheduleRetry(seedFallbackData?: DatabaseSchema) {
  * Gracefully logs and falls back to local file storage if not configured or connection fails.
  */
 export async function initMongoDB(seedFallbackData?: DatabaseSchema): Promise<boolean> {
+  if (mongoose.connection.readyState === 1) {
+    isConnected = true;
+    return true;
+  }
+
   const uri = process.env.MONGODB_URI;
 
   if (!uri || uri.trim() === '' || uri.includes('<username>') || uri.includes('<db_password>')) {

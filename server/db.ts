@@ -1151,7 +1151,14 @@ class Database {
       const content = JSON.stringify(dataToSave || this.data, null, 2);
       fs.writeFileSync(DB_FILE, content, 'utf-8');
     } catch (e) {
-      console.error('Failed to persist database.json:', e);
+      // In serverless environments (e.g. Vercel), disk outside /tmp is read-only
+      try {
+        const tmpFile = path.resolve('/tmp', 'database.json');
+        const content = JSON.stringify(dataToSave || this.data, null, 2);
+        fs.writeFileSync(tmpFile, content, 'utf-8');
+      } catch {
+        // State remains in memory
+      }
     }
   }
 
