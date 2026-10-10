@@ -1,0 +1,2337 @@
+{
+  "users": [
+    {
+      "_id": "6ac9c807b698ef76518ddad6",
+      "id": "user_minh_thao_01",
+      "fullName": "Nguyễn Minh Thảo",
+      "email": "minhthao@example.com",
+      "passwordHash": "$2b$10$dvlPtsrWja2wUFQIC7xjBemXX.kekQk6ftdtcF5yOLT02S0Chd2SC",
+      "avatar": "https://lh3.googleusercontent.com/aida-public/AB6AXuCRllgI8oI66wMCfq7CevResCOsTA_TgSDnew54A3Z9sLk4QofkN3BCscOuYlPJ2A0MRKnW8-z3p9kZNx2xKB4HSIo0Zz9WnkTrmVhAW7AqYIwkC1ZSaUtNiTZSoi9K3yavFWPJ-sCjjfV6X_fkn16PCskqxU0Q_8-9f8UjLiPyd9NdLS7ektkwJ8TUX-S8yJ12BQwibLJ1ttCwlrwsVzcl0oB-54JblczGcPbtBLGftlw0p_Gg7FJYJA",
+      "createdAt": "2024-09-01T08:00:00.000Z",
+      "__v": 0,
+      "updatedAt": "2026-10-10T05:07:19.703Z"
+    },
+    {
+      "_id": "6ac9c807b698ef76518ddad7",
+      "id": "user_1791604296345",
+      "fullName": "Trần Văn Nam",
+      "email": "nam.tran@example.com",
+      "passwordHash": "123",
+      "avatar": "https://lh3.googleusercontent.com/aida-public/AB6AXuCRllgI8oI66wMCfq7CevResCOsTA_TgSDnew54A3Z9sLk4QofkN3BCscOuYlPJ2A0MRKnW8-z3p9kZNx2xKB4HSIo0Zz9WnkTrmVhAW7AqYIwkC1ZSaUtNiTZSoi9K3yavFWPJ-sCjjfV6X_fkn16PCskqxU0Q_8-9f8UjLiPyd9NdLS7ektkwJ8TUX-S8yJ12BQwibLJ1ttCwlrwsVzcl0oB-54JblczGcPbtBLGftlw0p_Gg7FJYJA",
+      "createdAt": "2026-10-10T03:51:36.345Z",
+      "__v": 0,
+      "updatedAt": "2026-10-10T05:07:19.704Z"
+    },
+    {
+      "_id": "6ac9c807b698ef76518ddad8",
+      "id": "user_1791604296357",
+      "fullName": "Lê Hoàng Anh",
+      "email": "testuser_1791604296354@example.com",
+      "passwordHash": "SecurePassword2025!",
+      "avatar": "https://lh3.googleusercontent.com/aida-public/AB6AXuCRllgI8oI66wMCfq7CevResCOsTA_TgSDnew54A3Z9sLk4QofkN3BCscOuYlPJ2A0MRKnW8-z3p9kZNx2xKB4HSIo0Zz9WnkTrmVhAW7AqYIwkC1ZSaUtNiTZSoi9K3yavFWPJ-sCjjfV6X_fkn16PCskqxU0Q_8-9f8UjLiPyd9NdLS7ektkwJ8TUX-S8yJ12BQwibLJ1ttCwlrwsVzcl0oB-54JblczGcPbtBLGftlw0p_Gg7FJYJA",
+      "createdAt": "2026-10-10T03:51:36.357Z",
+      "__v": 0,
+      "updatedAt": "2026-10-10T05:07:19.704Z"
+    },
+    {
+      "_id": "6ac9c807b698ef76518ddad9",
+      "id": "user_1791604319579",
+      "fullName": "Lê Hoàng Anh",
+      "email": "hocvien_1791604319461@example.com",
+      "passwordHash": "$2b$10$ASPTzaa1AcoZvcXecr.Bve4ZoQzS.SRv7QLaWEO40joqvzVrDTbXS",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=120&q=80",
+      "createdAt": "2026-10-10T03:51:59.579Z",
+      "__v": 0,
+      "updatedAt": "2026-10-10T05:07:19.704Z"
+    },
+    {
+      "_id": "6ac9c807b698ef76518ddada",
+      "id": "user_1791604847274",
+      "fullName": "Phạm Minh Đức",
+      "email": "onboarding_test_1791604847099@example.com",
+      "passwordHash": "$2b$10$PdgAbo6xE7YwuHffokymauCSF0k7ceR7VNB3L1eShm5zgqY9ii2oS",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=120&q=80",
+      "createdAt": "2026-10-10T04:00:47.274Z",
+      "__v": 0,
+      "updatedAt": "2026-10-10T05:07:19.705Z"
+    },
+    {
+      "_id": "6ac9c807b698ef76518ddadb",
+      "id": "user_1791605736541",
+      "fullName": "Trần Văn Mới",
+      "email": "new_learner_1791605736433@example.com",
+      "passwordHash": "$2b$10$ZY5oOmCv/YdHr75VjPBAa.We5NWVGRl2mRPlmggUgnyigSHDV/RV6",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=120&q=80",
+      "createdAt": "2026-10-10T04:15:36.541Z",
+      "__v": 0,
+      "updatedAt": "2026-10-10T05:07:19.705Z"
+    },
+    {
+      "_id": "6ac9c807b698ef76518ddadc",
+      "id": "user_1791605827377",
+      "fullName": "Trần Văn Mới",
+      "email": "new_learner_1791605827244@example.com",
+      "passwordHash": "$2b$10$KWF7uvUgjpgsgHPXHf/sT.TCHERJJjQ8.tn7t.NuIeqWjzgVWgEgC",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=120&q=80",
+      "createdAt": "2026-10-10T04:17:07.377Z",
+      "__v": 0,
+      "updatedAt": "2026-10-10T05:07:19.705Z"
+    },
+    {
+      "_id": "6ac9d8b6c4e2f0e70f22fd76",
+      "id": "user_1791613110865",
+      "__v": 0,
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=120&q=80",
+      "createdAt": "Sat Oct 10 2026 06:18:30 GMT+0000 (Coordinated Universal Time)",
+      "email": "seconduser@example.com",
+      "fullName": "Trần Văn Hai",
+      "passwordHash": "$2b$10$hG3tiGeTMYiW7pYWz37glO/M19WbSF7EEWJKMn1JeR48jbX6gIJEW",
+      "updatedAt": "2026-10-10T06:18:30.881Z"
+    },
+    {
+      "_id": "6ac9ee06c4e2f0e70f22ff5f",
+      "id": "user_1791618566904",
+      "__v": 0,
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=120&q=80",
+      "createdAt": "Sat Oct 10 2026 07:49:26 GMT+0000 (Coordinated Universal Time)",
+      "email": "longlaai825@gmail.com",
+      "fullName": "long",
+      "passwordHash": "$2b$10$78Vh1PqkUq3eqhajUNwWH.ym7SG2jl8jeGSWWvpWks.c9stP/984G",
+      "updatedAt": "2026-10-10T07:49:26.912Z"
+    }
+  ],
+  "profiles": [
+    {
+      "_id": "6ac9c808b698ef76518ddadd",
+      "userId": "user_minh_thao_01",
+      "currentLevel": "A1",
+      "levelLabel": "C1 Advanced",
+      "targetLevel": "C2",
+      "targetCertificate": "Academic English C2",
+      "certificateTargetDate": "Q4 / 2025",
+      "priorityTopic": "Học thuật & Nghiên cứu",
+      "priorityTopicDesc": "Hội thoại mô phỏng tuyển dụng kỹ thuật và đàm phán hợp đồng quốc tế.",
+      "dailyCommitmentMinutes": 60,
+      "todayMinutesSpent": 26,
+      "streakDays": 7,
+      "phone": "0912 ••• 890",
+      "institution": "Đại học Bách Khoa TP.HCM (Khoa CNTT)",
+      "gender": "Nữ",
+      "birthDate": "15/08/2003",
+      "bio": "Sinh viên năm 3 ngành Công nghệ Thông tin, đang tự rèn luyện tiếng Anh chuyên ngành và phỏng vấn việc làm cùng trợ lý LinguaNext AI.",
+      "skillsRadar": {
+        "listening": 78,
+        "reading": 75,
+        "writing": 65,
+        "speaking": 60,
+        "grammar": 70,
+        "vocabulary": 85
+      },
+      "dailyGoalMinutes": 60,
+      "learningGoals": [
+        "Học thuật & Nghiên cứu"
+      ],
+      "primaryGoal": "Học thuật & Nghiên cứu",
+      "focusSkills": [
+        "writing",
+        "speaking"
+      ],
+      "wordsLearnedCount": 1,
+      "onboardingCompleted": true,
+      "updatedAt": "2026-10-10T04:06:31.879Z",
+      "__v": 0,
+      "createdAt": "2026-10-10T05:07:20.145Z"
+    },
+    {
+      "_id": "6ac9c808b698ef76518ddade",
+      "userId": "user_1791604296345",
+      "currentLevel": "B1",
+      "levelLabel": "B1 Intermediate",
+      "targetLevel": "B2 Vantage",
+      "targetCertificate": "IELTS 6.5+ / VSTEP B2",
+      "certificateTargetDate": "Q4 / 2025",
+      "priorityTopic": "Tech Job Interview & Công sở",
+      "priorityTopicDesc": "Hội thoại mô phỏng tuyển dụng kỹ thuật và đàm phán hợp đồng quốc tế.",
+      "dailyCommitmentMinutes": 20,
+      "todayMinutesSpent": 0,
+      "streakDays": 1,
+      "phone": "",
+      "institution": "Đại học Quốc gia TP.HCM",
+      "gender": "Khác / Không công khai",
+      "birthDate": "2003-01-01",
+      "bio": "",
+      "skillsRadar": {
+        "listening": 70,
+        "reading": 70,
+        "writing": 60,
+        "speaking": 55,
+        "grammar": 65,
+        "vocabulary": 75
+      },
+      "dailyGoalMinutes": 20,
+      "learningGoals": [],
+      "primaryGoal": "",
+      "focusSkills": [],
+      "wordsLearnedCount": 0,
+      "onboardingCompleted": true,
+      "updatedAt": "2026-10-10T03:51:36.345Z",
+      "__v": 0,
+      "createdAt": "2026-10-10T05:07:20.147Z"
+    },
+    {
+      "_id": "6ac9c808b698ef76518ddadf",
+      "userId": "user_1791604296357",
+      "currentLevel": "B1",
+      "levelLabel": "B1 Intermediate",
+      "targetLevel": "B2 Vantage",
+      "targetCertificate": "IELTS 6.5+ / VSTEP B2",
+      "certificateTargetDate": "Q4 / 2025",
+      "priorityTopic": "Tech Job Interview & Công sở",
+      "priorityTopicDesc": "Hội thoại mô phỏng tuyển dụng kỹ thuật và đàm phán hợp đồng quốc tế.",
+      "dailyCommitmentMinutes": 20,
+      "todayMinutesSpent": 0,
+      "streakDays": 1,
+      "phone": "",
+      "institution": "Đại học Quốc gia TP.HCM",
+      "gender": "Khác / Không công khai",
+      "birthDate": "2003-01-01",
+      "bio": "",
+      "skillsRadar": {
+        "listening": 70,
+        "reading": 70,
+        "writing": 60,
+        "speaking": 55,
+        "grammar": 65,
+        "vocabulary": 75
+      },
+      "dailyGoalMinutes": 20,
+      "learningGoals": [],
+      "primaryGoal": "",
+      "focusSkills": [],
+      "wordsLearnedCount": 0,
+      "onboardingCompleted": true,
+      "updatedAt": "2026-10-10T03:51:36.357Z",
+      "__v": 0,
+      "createdAt": "2026-10-10T05:07:20.147Z"
+    },
+    {
+      "_id": "6ac9c808b698ef76518ddae0",
+      "userId": "user_1791604319579",
+      "currentLevel": "B1",
+      "levelLabel": "B1 Intermediate",
+      "targetLevel": "B2 Vantage",
+      "targetCertificate": "IELTS 6.5+ / VSTEP B2",
+      "certificateTargetDate": "Q4 / 2025",
+      "priorityTopic": "Tech Job Interview & Công sở",
+      "priorityTopicDesc": "Hội thoại mô phỏng tuyển dụng kỹ thuật và đàm phán hợp đồng quốc tế.",
+      "dailyCommitmentMinutes": 20,
+      "todayMinutesSpent": 0,
+      "streakDays": 1,
+      "phone": "",
+      "institution": "Đại học Bách Khoa TP.HCM (Khoa CNTT)",
+      "gender": "Khác / Không công khai",
+      "birthDate": "2003-01-01",
+      "bio": "",
+      "skillsRadar": {
+        "listening": 70,
+        "reading": 70,
+        "writing": 60,
+        "speaking": 55,
+        "grammar": 65,
+        "vocabulary": 75
+      },
+      "dailyGoalMinutes": 20,
+      "learningGoals": [],
+      "primaryGoal": "",
+      "focusSkills": [],
+      "wordsLearnedCount": 0,
+      "onboardingCompleted": true,
+      "updatedAt": "2026-10-10T03:51:59.580Z",
+      "__v": 0,
+      "createdAt": "2026-10-10T05:07:20.147Z"
+    },
+    {
+      "_id": "6ac9c808b698ef76518ddae1",
+      "userId": "user_1791604847274",
+      "currentLevel": "A2",
+      "levelLabel": "A2 Elementary",
+      "targetLevel": "B1",
+      "targetCertificate": "IELTS 5.5 - 6.0",
+      "certificateTargetDate": "Q4 / 2025",
+      "priorityTopic": "Giao tiếp đời sống & Phản xạ tự nhiên",
+      "priorityTopicDesc": "Hội thoại mô phỏng tuyển dụng kỹ thuật và đàm phán hợp đồng quốc tế.",
+      "dailyCommitmentMinutes": 30,
+      "todayMinutesSpent": 0,
+      "streakDays": 1,
+      "phone": "",
+      "institution": "Đại học Bách Khoa TP.HCM (Khoa CNTT)",
+      "gender": "Khác / Không công khai",
+      "birthDate": "2003-01-01",
+      "bio": "",
+      "skillsRadar": {
+        "listening": 70,
+        "reading": 70,
+        "writing": 60,
+        "speaking": 55,
+        "grammar": 65,
+        "vocabulary": 75
+      },
+      "dailyGoalMinutes": 30,
+      "learningGoals": [
+        "Giao tiếp đời sống & Phản xạ tự nhiên"
+      ],
+      "primaryGoal": "Giao tiếp đời sống & Phản xạ tự nhiên",
+      "focusSkills": [
+        "vocabulary",
+        "listening",
+        "speaking"
+      ],
+      "wordsLearnedCount": 0,
+      "onboardingCompleted": true,
+      "updatedAt": "2026-10-10T04:00:47.287Z",
+      "__v": 0,
+      "createdAt": "2026-10-10T05:07:20.147Z"
+    },
+    {
+      "_id": "6ac9c808b698ef76518ddae2",
+      "userId": "user_1791605736541",
+      "currentLevel": "A2",
+      "levelLabel": "A2 Elementary",
+      "targetLevel": "B1",
+      "targetCertificate": "IELTS 6.5+ / VSTEP B2",
+      "certificateTargetDate": "Q4 / 2025",
+      "priorityTopic": "Giao tiếp hàng ngày",
+      "priorityTopicDesc": "Hội thoại mô phỏng tuyển dụng kỹ thuật và đàm phán hợp đồng quốc tế.",
+      "dailyCommitmentMinutes": 15,
+      "todayMinutesSpent": 0,
+      "streakDays": 1,
+      "phone": "",
+      "institution": "Đại học Bách Khoa TP.HCM (Khoa CNTT)",
+      "gender": "Khác / Không công khai",
+      "birthDate": "2003-01-01",
+      "bio": "",
+      "skillsRadar": {
+        "listening": 70,
+        "reading": 70,
+        "writing": 60,
+        "speaking": 55,
+        "grammar": 65,
+        "vocabulary": 75
+      },
+      "dailyGoalMinutes": 15,
+      "learningGoals": [
+        "Giao tiếp hàng ngày",
+        "Du lịch"
+      ],
+      "primaryGoal": "Giao tiếp hàng ngày",
+      "focusSkills": [
+        "vocabulary",
+        "speaking"
+      ],
+      "wordsLearnedCount": 0,
+      "onboardingCompleted": true,
+      "updatedAt": "2026-10-10T04:15:36.550Z",
+      "__v": 0,
+      "createdAt": "2026-10-10T05:07:20.147Z"
+    },
+    {
+      "_id": "6ac9c808b698ef76518ddae3",
+      "userId": "user_1791605827377",
+      "currentLevel": "A2",
+      "levelLabel": "A2 Elementary",
+      "targetLevel": "B1",
+      "targetCertificate": "IELTS 6.5+ / VSTEP B2",
+      "certificateTargetDate": "Q4 / 2025",
+      "priorityTopic": "Giao tiếp hàng ngày",
+      "priorityTopicDesc": "Hội thoại mô phỏng tuyển dụng kỹ thuật và đàm phán hợp đồng quốc tế.",
+      "dailyCommitmentMinutes": 15,
+      "todayMinutesSpent": 0,
+      "streakDays": 1,
+      "phone": "",
+      "institution": "Đại học Bách Khoa TP.HCM (Khoa CNTT)",
+      "gender": "Khác / Không công khai",
+      "birthDate": "2003-01-01",
+      "bio": "",
+      "skillsRadar": {
+        "listening": 70,
+        "reading": 70,
+        "writing": 60,
+        "speaking": 55,
+        "grammar": 65,
+        "vocabulary": 75
+      },
+      "dailyGoalMinutes": 15,
+      "learningGoals": [
+        "Giao tiếp hàng ngày",
+        "Du lịch"
+      ],
+      "primaryGoal": "Giao tiếp hàng ngày",
+      "focusSkills": [
+        "vocabulary",
+        "speaking"
+      ],
+      "wordsLearnedCount": 0,
+      "onboardingCompleted": true,
+      "updatedAt": "2026-10-10T04:17:07.388Z",
+      "__v": 0,
+      "createdAt": "2026-10-10T05:07:20.147Z"
+    },
+    {
+      "_id": "6ac9d8b6c4e2f0e70f22fd75",
+      "userId": "user_1791613110865",
+      "__v": 0,
+      "bio": "",
+      "birthDate": "2003-01-01",
+      "certificateTargetDate": "Q4 / 2025",
+      "createdAt": "2026-10-10T06:18:30.881Z",
+      "currentLevel": "B1",
+      "dailyCommitmentMinutes": 20,
+      "dailyGoalMinutes": 20,
+      "focusSkills": [],
+      "gender": "Khác / Không công khai",
+      "institution": "Đại học Bách Khoa TP.HCM (Khoa CNTT)",
+      "learningGoals": [],
+      "levelLabel": "B1 Intermediate",
+      "onboardingCompleted": true,
+      "phone": "",
+      "primaryGoal": "",
+      "priorityTopic": "Tech Job Interview & Công sở",
+      "priorityTopicDesc": "Hội thoại mô phỏng tuyển dụng kỹ thuật và đàm phán hợp đồng quốc tế.",
+      "skillsRadar": {
+        "listening": 70,
+        "reading": 70,
+        "writing": 60,
+        "speaking": 55,
+        "grammar": 65,
+        "vocabulary": 75
+      },
+      "streakDays": 1,
+      "targetCertificate": "IELTS 6.5+ / VSTEP B2",
+      "targetLevel": "B2 Vantage",
+      "todayMinutesSpent": 0,
+      "updatedAt": "Sat Oct 10 2026 06:18:30 GMT+0000 (Coordinated Universal Time)",
+      "wordsLearnedCount": 0
+    },
+    {
+      "_id": "6ac9ee06c4e2f0e70f22ff5e",
+      "userId": "user_1791618566904",
+      "__v": 0,
+      "bio": "",
+      "birthDate": "2003-01-01",
+      "certificateTargetDate": "Q4 / 2025",
+      "createdAt": "2026-10-10T07:49:26.913Z",
+      "currentLevel": "A1",
+      "dailyCommitmentMinutes": 60,
+      "dailyGoalMinutes": 60,
+      "focusSkills": [
+        "vocabulary",
+        "listening",
+        "writing",
+        "speaking"
+      ],
+      "gender": "Khác / Không công khai",
+      "institution": "Đại học Bách Khoa TP.HCM (Khoa CNTT)",
+      "learningGoals": [
+        "Phát triển sự nghiệp & Tiếng Anh công sở"
+      ],
+      "levelLabel": "A1 Beginner",
+      "onboardingCompleted": true,
+      "phone": "",
+      "primaryGoal": "Phát triển sự nghiệp & Tiếng Anh công sở",
+      "priorityTopic": "Phát triển sự nghiệp & Tiếng Anh công sở",
+      "priorityTopicDesc": "Hội thoại mô phỏng tuyển dụng kỹ thuật và đàm phán hợp đồng quốc tế.",
+      "skillsRadar": {
+        "listening": 70,
+        "reading": 70,
+        "writing": 60,
+        "speaking": 55,
+        "grammar": 65,
+        "vocabulary": 75
+      },
+      "streakDays": 1,
+      "targetCertificate": "IELTS 7.0+",
+      "targetLevel": "B2",
+      "todayMinutesSpent": 0,
+      "updatedAt": "Sat Oct 10 2026 07:50:50 GMT+0000 (Coordinated Universal Time)",
+      "wordsLearnedCount": 0
+    }
+  ],
+  "vocabularies": [
+    {
+      "_id": "6ac9c808b698ef76518ddae4",
+      "id": "vocab_01",
+      "word": "Entrepreneurship",
+      "phonetic": "/ˌɒn.trə.prəˈnɜː.ʃɪp/",
+      "partOfSpeech": "noun [C/U]",
+      "cefrLevel": "CEFR B2",
+      "frequency": "Tần suất 4/5",
+      "vietnameseMeaning": "Tinh thần khởi nghiệp; sự thành lập và điều hành doanh nghiệp mạo hiểm.",
+      "wordFamily": [
+        {
+          "form": "Entrepreneur",
+          "type": "n",
+          "meaning": "Người khởi nghiệp, doanh nhân",
+          "_id": "6ac9c808b698ef76518ddae5"
+        },
+        {
+          "form": "Entrepreneurial",
+          "type": "adj",
+          "meaning": "Mang tính khởi nghiệp, sáng tạo",
+          "_id": "6ac9c808b698ef76518ddae6"
+        },
+        {
+          "form": "Entrepreneurship",
+          "type": "n, unc",
+          "meaning": "Nghề kinh doanh mạo hiểm",
+          "_id": "6ac9c808b698ef76518ddae7"
+        }
+      ],
+      "collocations": [
+        {
+          "phrase": "serial entrepreneur",
+          "meaning": "Doanh nhân nối tiếp (nhiều startup)",
+          "example": "He is a serial entrepreneur who launched 4 startups.",
+          "_id": "6ac9c808b698ef76518ddae8"
+        },
+        {
+          "phrase": "foster entrepreneurship",
+          "meaning": "Thúc đẩy khởi nghiệp",
+          "example": "Government policies that foster entrepreneurship.",
+          "_id": "6ac9c808b698ef76518ddae9"
+        },
+        {
+          "phrase": "social entrepreneurship",
+          "meaning": "Khởi nghiệp xã hội",
+          "example": "Solving environmental crises via startups.",
+          "_id": "6ac9c808b698ef76518ddaea"
+        }
+      ],
+      "exampleEn": "The university offers special grants to encourage student entrepreneurship in technology.",
+      "exampleVi": "Trường đại học cung cấp các khoản tài trợ đặc biệt để khuyến khích sinh viên khởi nghiệp trong lĩnh vực công nghệ.",
+      "aiTip": "Từ này có gốc từ tiếng Pháp. Lưu ý trọng âm chính rơi vào âm tiết thứ 4 (-ship /ʃɪp/) và âm tiết phụ ở âm đầu tiên. Tránh nhầm lẫn với danh từ chỉ người entrepreneur.",
+      "topic": "Kinh tế & Khởi nghiệp",
+      "__v": 0,
+      "createdAt": "2026-10-10T05:07:20.327Z",
+      "updatedAt": "2026-10-10T05:07:20.327Z"
+    },
+    {
+      "_id": "6ac9c808b698ef76518ddaeb",
+      "id": "vocab_02",
+      "word": "Resilient",
+      "phonetic": "/rɪˈzɪl.jənt/",
+      "partOfSpeech": "adj",
+      "cefrLevel": "CEFR C1",
+      "frequency": "Tần suất 4/5",
+      "vietnameseMeaning": "Kiên cường, có khả năng phục hồi nhanh chóng sau khó khăn.",
+      "wordFamily": [
+        {
+          "form": "Resilience",
+          "type": "n",
+          "meaning": "Khả năng phục hồi, tính kiên cường",
+          "_id": "6ac9c808b698ef76518ddaec"
+        },
+        {
+          "form": "Resiliently",
+          "type": "adv",
+          "meaning": "Một cách kiên cường",
+          "_id": "6ac9c808b698ef76518ddaed"
+        }
+      ],
+      "collocations": [
+        {
+          "phrase": "remain resilient",
+          "meaning": "Vẫn kiên cường, giữ vững phong độ",
+          "example": "Our software team remained resilient despite the tight deadline.",
+          "_id": "6ac9c808b698ef76518ddaee"
+        },
+        {
+          "phrase": "resilient economy",
+          "meaning": "Nền kinh tế có sức chống chịu cao",
+          "example": "Building a resilient economy in the post-pandemic era.",
+          "_id": "6ac9c808b698ef76518ddaef"
+        }
+      ],
+      "exampleEn": "Vietnamese students are remarkably resilient when adapting to new AI learning technologies.",
+      "exampleVi": "Sinh viên Việt Nam kiên cường và linh hoạt đáng kinh ngạc khi thích nghi với các công nghệ học AI mới.",
+      "aiTip": "Phát âm đuôi /-jənt/, trọng âm nhấn vào âm tiết thứ 2 (zil). Thường đi kèm với giới từ to hoặc in the face of.",
+      "topic": "Kỹ năng & Tính cách",
+      "__v": 0,
+      "createdAt": "2026-10-10T05:07:20.328Z",
+      "updatedAt": "2026-10-10T05:07:20.328Z"
+    },
+    {
+      "_id": "6ac9c808b698ef76518ddaf0",
+      "id": "vocab_03",
+      "word": "Sustainable",
+      "phonetic": "/səˈsteɪ.nə.bəl/",
+      "partOfSpeech": "adj",
+      "cefrLevel": "CEFR B2",
+      "frequency": "Tần suất 5/5",
+      "vietnameseMeaning": "Bền vững, có thể duy trì lâu dài mà không gây hại đến môi trường.",
+      "wordFamily": [
+        {
+          "form": "Sustain",
+          "type": "v",
+          "meaning": "Duy trì, chống đỡ",
+          "_id": "6ac9c808b698ef76518ddaf1"
+        },
+        {
+          "form": "Sustainability",
+          "type": "n",
+          "meaning": "Tính bền vững",
+          "_id": "6ac9c808b698ef76518ddaf2"
+        }
+      ],
+      "collocations": [
+        {
+          "phrase": "sustainable development",
+          "meaning": "Phát triển bền vững",
+          "example": "Balancing economic growth with sustainable development.",
+          "_id": "6ac9c808b698ef76518ddaf3"
+        },
+        {
+          "phrase": "sustainable competitive advantage",
+          "meaning": "Lợi thế cạnh tranh bền vững",
+          "example": "Innovation is key to a sustainable competitive advantage.",
+          "_id": "6ac9c808b698ef76518ddaf4"
+        }
+      ],
+      "exampleEn": "Companies must develop sustainable strategies to thrive in the modern tech ecosystem.",
+      "exampleVi": "Các công ty phải phát triển chiến lược bền vững để phát triển thịnh vượng trong hệ sinh thái công nghệ hiện đại.",
+      "aiTip": "Ghi nhớ tiền tố sus- (dưới) + tain (giữ) + -able (có thể).",
+      "topic": "Kinh tế & Môi trường",
+      "__v": 0,
+      "createdAt": "2026-10-10T05:07:20.328Z",
+      "updatedAt": "2026-10-10T05:07:20.328Z"
+    },
+    {
+      "_id": "6ac9c808b698ef76518ddaf5",
+      "id": "vocab_04",
+      "word": "Innovative",
+      "phonetic": "/ˈɪn.ə.veɪ.tɪv/",
+      "partOfSpeech": "adj",
+      "cefrLevel": "CEFR B2",
+      "frequency": "Tần suất 5/5",
+      "vietnameseMeaning": "Đột phá, đổi mới sáng tạo, áp dụng phương pháp hoàn toàn mới.",
+      "wordFamily": [
+        {
+          "form": "Innovate",
+          "type": "v",
+          "meaning": "Đổi mới, sáng tạo",
+          "_id": "6ac9c808b698ef76518ddaf6"
+        },
+        {
+          "form": "Innovation",
+          "type": "n",
+          "meaning": "Sự đổi mới, sáng kiến",
+          "_id": "6ac9c808b698ef76518ddaf7"
+        }
+      ],
+      "collocations": [
+        {
+          "phrase": "innovative solution",
+          "meaning": "Giải pháp đột phá",
+          "example": "They delivered an innovative solution to cloud latency.",
+          "_id": "6ac9c808b698ef76518ddaf8"
+        },
+        {
+          "phrase": "innovative approach",
+          "meaning": "Cách tiếp cận sáng tạo",
+          "example": "An innovative approach to English pedagogy.",
+          "_id": "6ac9c808b698ef76518ddaf9"
+        }
+      ],
+      "exampleEn": "The startup introduced an innovative method for automated voice speech recognition.",
+      "exampleVi": "Công ty khởi nghiệp đã giới thiệu một phương pháp đột phá trong nhận diện giọng nói tự động.",
+      "aiTip": "Trọng âm thứ nhất IN-no-va-tive. Giọng UK đọc /ˈɪn.ə.və.tɪv/, giọng US đọc /ˈɪn.ə.veɪ.tɪv/.",
+      "topic": "Công nghệ & Đổi mới",
+      "__v": 0,
+      "createdAt": "2026-10-10T05:07:20.328Z",
+      "updatedAt": "2026-10-10T05:07:20.328Z"
+    },
+    {
+      "_id": "6ac9c808b698ef76518ddafa",
+      "id": "vocab_05",
+      "word": "Collaborate",
+      "phonetic": "/kəˈlæb.ə.reɪt/",
+      "partOfSpeech": "verb",
+      "cefrLevel": "CEFR B2",
+      "frequency": "Tần suất 4/5",
+      "vietnameseMeaning": "Cộng tác, phối hợp cùng nhau để đạt được mục tiêu chung.",
+      "wordFamily": [
+        {
+          "form": "Collaboration",
+          "type": "n",
+          "meaning": "Sự hợp tác",
+          "_id": "6ac9c808b698ef76518ddafb"
+        },
+        {
+          "form": "Collaborative",
+          "type": "adj",
+          "meaning": "Có tính cộng tác",
+          "_id": "6ac9c808b698ef76518ddafc"
+        }
+      ],
+      "collocations": [
+        {
+          "phrase": "collaborate with colleagues",
+          "meaning": "Cộng tác cùng đồng nghiệp",
+          "example": "Engineers collaborate with designers daily.",
+          "_id": "6ac9c808b698ef76518ddafd"
+        },
+        {
+          "phrase": "collaborate on a project",
+          "meaning": "Hợp tác trong một dự án",
+          "example": "Both universities collaborated on the research.",
+          "_id": "6ac9c808b698ef76518ddafe"
+        }
+      ],
+      "exampleEn": "Software engineers collaborate closely with product managers to deliver timely releases.",
+      "exampleVi": "Các kỹ sư phần mềm cộng tác chặt chẽ với quản lý sản phẩm để phát hành đúng tiến độ.",
+      "aiTip": "Luôn chú ý giới từ: collaborate WITH someone, collaborate ON something.",
+      "topic": "Công việc & Nhóm",
+      "__v": 0,
+      "createdAt": "2026-10-10T05:07:20.328Z",
+      "updatedAt": "2026-10-10T05:07:20.328Z"
+    },
+    {
+      "_id": "6ac9c808b698ef76518ddaff",
+      "id": "vocab_06",
+      "word": "Productivity",
+      "phonetic": "/ˌprɒd.ʌkˈtɪv.ə.ti/",
+      "partOfSpeech": "noun [U]",
+      "cefrLevel": "CEFR B1+",
+      "frequency": "Tần suất 5/5",
+      "vietnameseMeaning": "Năng suất lao động, hiệu suất làm việc.",
+      "wordFamily": [
+        {
+          "form": "Produce",
+          "type": "v",
+          "meaning": "Sản xuất",
+          "_id": "6ac9c808b698ef76518ddb00"
+        },
+        {
+          "form": "Productive",
+          "type": "adj",
+          "meaning": "Năng suất, hiệu quả",
+          "_id": "6ac9c808b698ef76518ddb01"
+        }
+      ],
+      "collocations": [
+        {
+          "phrase": "boost productivity",
+          "meaning": "Tăng cường năng suất",
+          "example": "AI tools can significantly boost productivity.",
+          "_id": "6ac9c808b698ef76518ddb02"
+        },
+        {
+          "phrase": "worker productivity",
+          "meaning": "Năng suất của người lao động",
+          "example": "Remote work impacts worker productivity.",
+          "_id": "6ac9c808b698ef76518ddb03"
+        }
+      ],
+      "exampleEn": "Modern automation tools help increase developer productivity by 35 percent.",
+      "exampleVi": "Các công cụ tự động hóa hiện đại giúp tăng năng suất lập trình viên thêm 35 phần trăm.",
+      "aiTip": "Trọng âm chính ở âm tiết thứ 3: pro-duc-TI-vi-ty.",
+      "topic": "Kinh tế & Công sở",
+      "__v": 0,
+      "createdAt": "2026-10-10T05:07:20.328Z",
+      "updatedAt": "2026-10-10T05:07:20.328Z"
+    },
+    {
+      "_id": "6ac9c808b698ef76518ddb04",
+      "id": "vocab_07",
+      "word": "Integrate",
+      "phonetic": "/ˈɪn.tə.ɡreɪt/",
+      "partOfSpeech": "verb",
+      "cefrLevel": "CEFR B2",
+      "frequency": "Tần suất 4/5",
+      "vietnameseMeaning": "Tích hợp, kết hợp nhuần nhuyễn vào hệ thống chung.",
+      "wordFamily": [
+        {
+          "form": "Integration",
+          "type": "n",
+          "meaning": "Sự tích hợp, hội nhập",
+          "_id": "6ac9c808b698ef76518ddb05"
+        },
+        {
+          "form": "Integrated",
+          "type": "adj",
+          "meaning": "Được tích hợp",
+          "_id": "6ac9c808b698ef76518ddb06"
+        }
+      ],
+      "collocations": [
+        {
+          "phrase": "integrate into workflow",
+          "meaning": "Tích hợp vào quy trình làm việc",
+          "example": "Integrate generative AI directly into the pipeline.",
+          "_id": "6ac9c808b698ef76518ddb07"
+        },
+        {
+          "phrase": "seamlessly integrate",
+          "meaning": "Tích hợp liền mạch",
+          "example": "The plugin seamlessly integrates with Chrome.",
+          "_id": "6ac9c808b698ef76518ddb08"
+        }
+      ],
+      "exampleEn": "Companies must integrate modern machine learning models to stay ahead in competitive markets.",
+      "exampleVi": "Các công ty phải tích hợp các mô hình máy học hiện đại để dẫn đầu trong thị trường cạnh tranh.",
+      "aiTip": "Cấu trúc thường gặp: integrate A INTO B hoặc integrate with B.",
+      "topic": "Công nghệ & Hệ thống",
+      "__v": 0,
+      "createdAt": "2026-10-10T05:07:20.328Z",
+      "updatedAt": "2026-10-10T05:07:20.328Z"
+    }
+  ],
+  "vocabProgress": [
+    {
+      "_id": "6ac9c808b698ef76518ddb27",
+      "userId": "user_minh_thao_01",
+      "vocabId": "vocab_01",
+      "srsLevel": 4,
+      "status": "mastered",
+      "nextReviewText": "Ôn sau 7 ngày",
+      "isFavorite": false,
+      "repetitions": 6,
+      "lastReviewedAt": "2026-10-10T04:38:24.083Z",
+      "__v": 0,
+      "createdAt": "2026-10-10T05:07:20.802Z",
+      "updatedAt": "2026-10-10T05:07:20.802Z"
+    },
+    {
+      "_id": "6ac9c808b698ef76518ddb28",
+      "userId": "user_minh_thao_01",
+      "vocabId": "vocab_02",
+      "srsLevel": 4,
+      "status": "mastered",
+      "nextReviewText": "Ôn sau 4 ngày",
+      "isFavorite": true,
+      "repetitions": 4,
+      "lastReviewedAt": "2026-10-09T03:17:50.505Z",
+      "__v": 0,
+      "createdAt": "2026-10-10T05:07:20.802Z",
+      "updatedAt": "2026-10-10T05:07:20.802Z"
+    },
+    {
+      "_id": "6ac9c808b698ef76518ddb29",
+      "userId": "user_minh_thao_01",
+      "vocabId": "vocab_03",
+      "srsLevel": 4,
+      "status": "mastered",
+      "nextReviewText": "Ôn sau 4 ngày",
+      "isFavorite": true,
+      "repetitions": 4,
+      "lastReviewedAt": "2026-10-09T03:17:50.505Z",
+      "__v": 0,
+      "createdAt": "2026-10-10T05:07:20.802Z",
+      "updatedAt": "2026-10-10T05:07:20.802Z"
+    },
+    {
+      "_id": "6ac9c808b698ef76518ddb2a",
+      "userId": "user_minh_thao_01",
+      "vocabId": "vocab_04",
+      "srsLevel": 2,
+      "status": "review",
+      "nextReviewText": "Ôn lại hôm nay",
+      "isFavorite": false,
+      "repetitions": 2,
+      "lastReviewedAt": "2026-10-08T03:17:50.505Z",
+      "__v": 0,
+      "createdAt": "2026-10-10T05:07:20.802Z",
+      "updatedAt": "2026-10-10T05:07:20.802Z"
+    },
+    {
+      "_id": "6ac9c808b698ef76518ddb2b",
+      "userId": "user_minh_thao_01",
+      "vocabId": "vocab_05",
+      "srsLevel": 0,
+      "status": "pending",
+      "nextReviewText": "Chưa học",
+      "isFavorite": false,
+      "repetitions": 0,
+      "lastReviewedAt": "",
+      "__v": 0,
+      "createdAt": "2026-10-10T05:07:20.802Z",
+      "updatedAt": "2026-10-10T05:07:20.802Z"
+    },
+    {
+      "_id": "6ac9c808b698ef76518ddb2c",
+      "userId": "user_minh_thao_01",
+      "vocabId": "vocab_06",
+      "srsLevel": 0,
+      "status": "pending",
+      "nextReviewText": "Chưa học",
+      "isFavorite": false,
+      "repetitions": 0,
+      "lastReviewedAt": "",
+      "__v": 0,
+      "createdAt": "2026-10-10T05:07:20.802Z",
+      "updatedAt": "2026-10-10T05:07:20.802Z"
+    },
+    {
+      "_id": "6ac9c808b698ef76518ddb2d",
+      "userId": "user_minh_thao_01",
+      "vocabId": "vocab_07",
+      "srsLevel": 0,
+      "status": "pending",
+      "nextReviewText": "Chưa học",
+      "isFavorite": false,
+      "repetitions": 0,
+      "lastReviewedAt": "",
+      "__v": 0,
+      "createdAt": "2026-10-10T05:07:20.802Z",
+      "updatedAt": "2026-10-10T05:07:20.802Z"
+    },
+    {
+      "_id": "6ac9c808b698ef76518ddb2e",
+      "userId": "user_1791605827377",
+      "vocabId": "vocab_01",
+      "srsLevel": 3,
+      "status": "mastered",
+      "nextReviewText": "Ôn sau 4 ngày",
+      "isFavorite": false,
+      "repetitions": 1,
+      "lastReviewedAt": "2026-10-10T04:17:07.401Z",
+      "__v": 0,
+      "createdAt": "2026-10-10T05:07:20.802Z",
+      "updatedAt": "2026-10-10T05:07:20.802Z"
+    }
+  ],
+  "listeningExercises": [
+    {
+      "_id": "6ac9c808b698ef76518ddb09",
+      "id": "listen_01",
+      "title": "Luyện nghe chép chính tả & Điền khuyết",
+      "section": "Đoạn 02: Xu hướng Chuyển đổi Số",
+      "speaker": "Dr. Rachel Adams",
+      "speakerRole": "Giám đốc Công nghệ & Đổi mới sáng tạo (Keynote Speaker)",
+      "speakerAvatar": "https://lh3.googleusercontent.com/aida-public/AB6AXuB8VfhirzfQKQRiY07dudXqkMErtrMDjc4C4j19bZUeriEloBgNYO1DcTMY0FQqz9WpSu1xViwl0R6ntV9USmzzwLSGv1IimerQXP8aD2EzIp7vM7aMz6QTHkoEUDtxUA-IEePnBApOlmKrecwMAU20z2q5T4K8LXQxow-9dsZdwnteWbu8_AZYOKdUiBtH-Wz9jtPMppRgIRWEePrlBP2-lJrKw2uXJrVBd35AMSwvbG2KOgU_1d3gwA",
+      "duration": "03:45",
+      "level": "Trình độ B1+",
+      "difficulty": "Độ khó 3/5",
+      "accent": "Giọng chuẩn Mỹ (US Accent - Natural)",
+      "topic": "AI & Chuyển đổi số",
+      "audioTranscriptEn": "In the upcoming decade, artificial intelligence will fundamentally change how businesses approach productivity and workflow automation. Companies that fail to integrate modern language models will struggle to maintain their competitive advantage in global markets.",
+      "audioTranscriptVi": "Trong thập kỷ tới, trí tuệ nhân tạo sẽ thay đổi căn bản cách các doanh nghiệp tiếp cận năng suất và tự động hóa quy trình làm việc. Những công ty không tích hợp các mô hình ngôn ngữ hiện đại sẽ phải chật vật duy trì lợi thế cạnh tranh của mình trên thị trường toàn cầu.",
+      "transcript": [
+        {
+          "timestamp": "00:03",
+          "speaker": "Dr. Rachel Adams",
+          "text": "In the upcoming decade, artificial intelligence will fundamentally change how businesses approach productivity and workflow automation.",
+          "vietnamese": "Trong thập kỷ tới, trí tuệ nhân tạo sẽ thay đổi căn bản cách các doanh nghiệp tiếp cận năng suất và tự động hóa quy trình làm việc.",
+          "_id": "6ac9c808b698ef76518ddb0a"
+        },
+        {
+          "timestamp": "00:20",
+          "speaker": "Dr. Rachel Adams",
+          "text": "Companies that fail to integrate modern language models will struggle to maintain their competitive advantage in global markets.",
+          "vietnamese": "Những công ty không tích hợp các mô hình ngôn ngữ hiện đại sẽ phải chật vật duy trì lợi thế cạnh tranh của mình trên thị trường toàn cầu.",
+          "_id": "6ac9c808b698ef76518ddb0b"
+        }
+      ],
+      "paragraphWithBlanks": "In the upcoming decade, artificial intelligence will fundamentally change how businesses approach [productivity] and workflow automation. Companies that fail to [integrate] modern language models will struggle to maintain their [competitive] advantage in global markets.",
+      "blanks": [
+        {
+          "id": "blank_1",
+          "index": 1,
+          "targetWord": "productivity",
+          "phonetic": "/ˌprɒd.ʌkˈtɪv.ə.ti/",
+          "partOfSpeech": "noun",
+          "meaning": "Năng suất lao động trong kinh tế",
+          "hint": "Danh từ bắt đầu bằng \"pro...\"",
+          "_id": "6ac9c808b698ef76518ddb0c"
+        },
+        {
+          "id": "blank_2",
+          "index": 2,
+          "targetWord": "integrate",
+          "phonetic": "/ˈɪn.tə.ɡreɪt/",
+          "partOfSpeech": "verb",
+          "meaning": "Tích hợp, kết hợp nhuần nhuyễn vào hệ thống",
+          "hint": "Động từ nguyên mẫu sau fail to",
+          "_id": "6ac9c808b698ef76518ddb0d"
+        },
+        {
+          "id": "blank_3",
+          "index": 3,
+          "targetWord": "competitive",
+          "phonetic": "/kəmˈpet.ɪ.tɪv/",
+          "partOfSpeech": "adj",
+          "meaning": "Có tính cạnh tranh",
+          "hint": "Tính từ đứng trước \"advantage\"",
+          "_id": "6ac9c808b698ef76518ddb0e"
+        }
+      ],
+      "fillInBlanks": [
+        {
+          "id": "blank_1",
+          "sentence": "Businesses will fundamentally change how they approach [productivity] and automation.",
+          "targetWord": "productivity",
+          "hint": "Năng suất lao động trong kinh tế (pro...)",
+          "_id": "6ac9c808b698ef76518ddb0f"
+        },
+        {
+          "id": "blank_2",
+          "sentence": "Companies that fail to [integrate] modern language models will struggle.",
+          "targetWord": "integrate",
+          "hint": "Động từ nguyên mẫu: Tích hợp (in...)",
+          "_id": "6ac9c808b698ef76518ddb10"
+        },
+        {
+          "id": "blank_3",
+          "sentence": "They will struggle to maintain their [competitive] advantage in global markets.",
+          "targetWord": "competitive",
+          "hint": "Tính từ: Mang tính cạnh tranh (com...)",
+          "_id": "6ac9c808b698ef76518ddb11"
+        }
+      ],
+      "questions": [
+        {
+          "id": 1,
+          "question": "Theo diễn giả, công nghệ nào sẽ làm thay đổi căn bản cách vận hành doanh nghiệp trong thập kỷ tới?",
+          "options": [
+            "Trí tuệ nhân tạo (Artificial Intelligence)",
+            "Điện toán đám mây truyền thống",
+            "Công nghệ chuỗi khối Blockchain",
+            "Thực tế ảo tăng cường VR"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Trong câu mở đầu, diễn giả nhấn mạnh: \"In the upcoming decade, artificial intelligence will fundamentally change how businesses approach productivity...\"",
+          "_id": "6ac9c808b698ef76518ddb12"
+        },
+        {
+          "id": 2,
+          "question": "Hậu quả chính đối với những doanh nghiệp không tích hợp các mô hình ngôn ngữ hiện đại là gì?",
+          "options": [
+            "Chật vật duy trì lợi thế cạnh tranh trên thị trường toàn cầu",
+            "Phải gia tăng chi phí quảng cáo gấp đôi",
+            "Mất chứng chỉ bảo mật quốc tế",
+            "Bị buộc phải chuyển toàn bộ nhân sự sang làm việc từ xa"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Diễn giả nêu rõ: \"Companies that fail to integrate modern language models will struggle to maintain their competitive advantage in global markets.\"",
+          "_id": "6ac9c808b698ef76518ddb13"
+        }
+      ],
+      "keyVocab": [
+        {
+          "word": "productivity",
+          "phonetic": "/ˌprɒd.ʌkˈtɪv.ə.ti/",
+          "partOfSpeech": "n",
+          "meaning": "Năng suất lao động",
+          "status": "correct",
+          "_id": "6ac9c808b698ef76518ddb14"
+        },
+        {
+          "word": "integrate",
+          "phonetic": "/ˈɪn.tə.ɡreɪt/",
+          "partOfSpeech": "v",
+          "meaning": "Tích hợp, kết hợp",
+          "status": "active",
+          "_id": "6ac9c808b698ef76518ddb15"
+        },
+        {
+          "word": "competitive",
+          "phonetic": "/kəmˈpet.ɪ.tɪv/",
+          "partOfSpeech": "adj",
+          "meaning": "Có tính cạnh tranh",
+          "status": "pending",
+          "_id": "6ac9c808b698ef76518ddb16"
+        }
+      ],
+      "collocationHighlight": {
+        "phrase": "competitive advantage",
+        "meaning": "Lợi thế cạnh tranh vượt trội trên thị trường."
+      },
+      "insights": {
+        "structure": "Cấu trúc \"fail to + V(infinitive)\"",
+        "structureExplanation": "Không làm được điều gì, thất bại trong việc... Do đó từ cần điền ở Chỗ trống 2 bắt buộc là động từ nguyên mẫu (integrate).",
+        "pronunciation": "Hiện tượng nối âm & Giảm âm",
+        "pronunciationExplanation": "Âm đuôi /t/ trong integrate nối nhẹ với âm /m/ trong modern; âm approach /tʃ/ nuốt nhẹ trước nguyên âm."
+      },
+      "__v": 0,
+      "createdAt": "2026-10-10T05:07:20.492Z",
+      "updatedAt": "2026-10-10T05:07:20.492Z",
+      "audioUrl": "/audio/listen_01.wav"
+    },
+    {
+      "_id": "6ac9c808b698ef76518ddb17",
+      "id": "listen_02",
+      "title": "Product Strategy Meeting at Tech Startup",
+      "section": "Đoạn 01: Thống nhất Lộ trình Quý & Tối ưu Trải nghiệm",
+      "speaker": "Marcus Vance",
+      "speakerRole": "Head of Product (Senior PM)",
+      "speakerAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "duration": "04:15",
+      "level": "Trình độ B2",
+      "difficulty": "Độ khó 4/5",
+      "accent": "Giọng chuẩn Mỹ (US Accent - Professional)",
+      "topic": "Tech & Product Management",
+      "audioTranscriptEn": "Good morning everyone. Today we are aligning our roadmap for the next quarter. Our primary objective is streamlining user onboarding and reducing customer churn rate through proactive feedback loops.",
+      "audioTranscriptVi": "Chào buổi sáng mọi người. Hôm nay chúng ta thống nhất lộ trình phát triển cho quý tới. Mục tiêu hàng đầu là tinh giản quy trình nhập môn người dùng và giảm tỷ lệ rời bỏ dịch vụ thông qua chu trình phản hồi chủ động.",
+      "transcript": [
+        {
+          "timestamp": "00:02",
+          "speaker": "Marcus Vance",
+          "text": "Good morning everyone. Today we are aligning our roadmap for the next quarter.",
+          "vietnamese": "Chào buổi sáng mọi người. Hôm nay chúng ta thống nhất lộ trình phát triển cho quý tới.",
+          "_id": "6ac9c808b698ef76518ddb18"
+        },
+        {
+          "timestamp": "00:14",
+          "speaker": "Marcus Vance",
+          "text": "Our primary objective is streamlining user onboarding and reducing customer churn rate through proactive feedback loops.",
+          "vietnamese": "Mục tiêu hàng đầu là tinh giản quy trình nhập môn và giảm tỷ lệ rời bỏ dịch vụ thông qua các chu trình phản hồi chủ động.",
+          "_id": "6ac9c808b698ef76518ddb19"
+        }
+      ],
+      "paragraphWithBlanks": "Good morning everyone. Today we are aligning our [roadmap] for the next quarter. Our primary objective is [streamlining] user onboarding and reducing customer [churn] rate through proactive feedback loops.",
+      "blanks": [
+        {
+          "id": "blank_1",
+          "index": 1,
+          "targetWord": "roadmap",
+          "phonetic": "/ˈroʊd.mæp/",
+          "partOfSpeech": "noun",
+          "meaning": "Lộ trình phát triển sản phẩm",
+          "hint": "Danh từ bắt đầu bằng \"road...\"",
+          "_id": "6ac9c808b698ef76518ddb1a"
+        },
+        {
+          "id": "blank_2",
+          "index": 2,
+          "targetWord": "streamlining",
+          "phonetic": "/ˈstriːm.laɪ.nɪŋ/",
+          "partOfSpeech": "verb (gerund)",
+          "meaning": "Tinh giản hóa, rút gọn quy trình",
+          "hint": "Dạng V-ing của streamline",
+          "_id": "6ac9c808b698ef76518ddb1b"
+        },
+        {
+          "id": "blank_3",
+          "index": 3,
+          "targetWord": "churn",
+          "phonetic": "/tʃɜːrn/",
+          "partOfSpeech": "noun",
+          "meaning": "Tỷ lệ khách hàng rời bỏ dịch vụ",
+          "hint": "Từ đi trước \"... rate\"",
+          "_id": "6ac9c808b698ef76518ddb1c"
+        }
+      ],
+      "fillInBlanks": [
+        {
+          "id": "blank_1",
+          "sentence": "Today we are aligning our [roadmap] for the next quarter.",
+          "targetWord": "roadmap",
+          "hint": "Lộ trình phát triển sản phẩm (road...)",
+          "_id": "6ac9c808b698ef76518ddb1d"
+        },
+        {
+          "id": "blank_2",
+          "sentence": "Our primary objective is [streamlining] user onboarding.",
+          "targetWord": "streamlining",
+          "hint": "Tinh giản hóa quy trình (streamline...)",
+          "_id": "6ac9c808b698ef76518ddb1e"
+        },
+        {
+          "id": "blank_3",
+          "sentence": "And reducing customer [churn] rate through feedback loops.",
+          "targetWord": "churn",
+          "hint": "Tỷ lệ rời bỏ dịch vụ (ch...)",
+          "_id": "6ac9c808b698ef76518ddb1f"
+        }
+      ],
+      "questions": [
+        {
+          "id": 1,
+          "question": "Mục tiêu chính của cuộc họp sản phẩm là gì?",
+          "options": [
+            "Thống nhất lộ trình phát triển quý tới",
+            "Kêu gọi vốn đầu tư vòng tiếp theo",
+            "Giải quyết sự cố máy chủ ứng dụng",
+            "Phỏng vấn nhân sự mới"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Marcus mở đầu bài nói: \"Today we are aligning our roadmap for the next quarter.\"",
+          "_id": "6ac9c808b698ef76518ddb20"
+        },
+        {
+          "id": 2,
+          "question": "Giải pháp nào được đề xuất để giảm tỷ lệ khách hàng rời bỏ (churn rate)?",
+          "options": [
+            "Thiết lập chu trình phản hồi chủ động từ khách hàng (feedback loops)",
+            "Giảm giá dịch vụ vô điều kiện",
+            "Tạm ngưng tiếp nhận khách hàng mới",
+            "Tăng ngân sách quảng cáo truyền thông"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Marcus nêu rõ: \"reducing customer churn rate through proactive feedback loops.\"",
+          "_id": "6ac9c808b698ef76518ddb21"
+        }
+      ],
+      "keyVocab": [
+        {
+          "word": "roadmap",
+          "phonetic": "/ˈroʊd.mæp/",
+          "partOfSpeech": "n",
+          "meaning": "Lộ trình phát triển sản phẩm",
+          "status": "active",
+          "_id": "6ac9c808b698ef76518ddb22"
+        },
+        {
+          "word": "streamlining",
+          "phonetic": "/ˈstriːm.laɪ.nɪŋ/",
+          "partOfSpeech": "v",
+          "meaning": "Tinh giản hóa quy trình",
+          "status": "correct",
+          "_id": "6ac9c808b698ef76518ddb23"
+        },
+        {
+          "word": "churn",
+          "phonetic": "/tʃɜːrn/",
+          "partOfSpeech": "n",
+          "meaning": "Tỷ lệ khách hàng rời bỏ dịch vụ",
+          "status": "pending",
+          "_id": "6ac9c808b698ef76518ddb24"
+        }
+      ],
+      "collocationHighlight": {
+        "phrase": "churn rate",
+        "meaning": "Tỷ lệ khách hàng rời bỏ dịch vụ hoặc hủy gói đăng ký trong một khoảng thời gian."
+      },
+      "insights": {
+        "structure": "Collocation \"aligning our roadmap\"",
+        "structureExplanation": "Thống nhất và đồng bộ kế hoạch/lộ trình phát triển giữa các phòng ban.",
+        "pronunciation": "Chặn âm và nối âm trong cụm từ chuyên môn",
+        "pronunciationExplanation": "Âm /k/ trong feedback nối tự nhiên với âm /l/ trong loops."
+      },
+      "__v": 0,
+      "createdAt": "2026-10-10T05:07:20.492Z",
+      "updatedAt": "2026-10-10T05:07:20.492Z",
+      "audioUrl": "/audio/listen_02.wav"
+    },
+    {
+      "_id": "6ac9ccb9c4e2f0e70f22fab3",
+      "id": "listen_03",
+      "accent": "Giọng chuẩn Mỹ (US Accent - HR Professional)",
+      "audioTranscriptEn": "When answering behavioral interview questions, the STAR method provides a clear structured approach. You begin by outlining the situation, detailing your specific task, explaining the decisive actions you executed, and demonstrating tangible results.",
+      "audioTranscriptVi": "Khi trả lời các câu hỏi phỏng vấn hành vi, phương pháp STAR mang lại cách tiếp cận rõ ràng và có cấu trúc. Bạn bắt đầu bằng việc phác thảo tình huống, chi tiết hoá nhiệm vụ cụ thể của bạn, giải thích các hành động quyết đoán bạn đã thực hiện, và chứng minh các kết quả hữu hình.",
+      "audioUrl": "/audio/listen_03.wav",
+      "blanks": [
+        {
+          "id": "blank_1",
+          "index": 1,
+          "targetWord": "structured",
+          "phonetic": "/ˈstrʌk.tʃəd/",
+          "partOfSpeech": "adj",
+          "meaning": "Có cấu trúc bài bản, mạch lạc",
+          "hint": "Tính từ mô tả phương pháp (struc...)"
+        },
+        {
+          "id": "blank_2",
+          "index": 2,
+          "targetWord": "situation",
+          "phonetic": "/ˌsɪtʃ.uˈeɪ.ʃən/",
+          "partOfSpeech": "noun",
+          "meaning": "Tình huống, hoàn cảnh ban đầu",
+          "hint": "Chữ S trong từ viết tắt STAR"
+        },
+        {
+          "id": "blank_3",
+          "index": 3,
+          "targetWord": "tangible",
+          "phonetic": "/ˈtæn.dʒə.bəl/",
+          "partOfSpeech": "adj",
+          "meaning": "Hữu hình, có thể đo lường rõ ràng",
+          "hint": "Tính từ đi trước results (tan...)"
+        }
+      ],
+      "difficulty": "Đoạn 3/5",
+      "duration": "03:10",
+      "fillInBlanks": [
+        {
+          "id": "blank_1",
+          "sentence": "The STAR method provides a clear [structured] approach.",
+          "targetWord": "structured",
+          "hint": "Có cấu trúc rõ ràng (struc...)"
+        },
+        {
+          "id": "blank_2",
+          "sentence": "You begin by outlining the [situation] and detailing your task.",
+          "targetWord": "situation",
+          "hint": "Tình huống (situ...)"
+        },
+        {
+          "id": "blank_3",
+          "sentence": "Explaining decisive actions and demonstrating [tangible] results.",
+          "targetWord": "tangible",
+          "hint": "Kết quả đo lường được (tan...)"
+        }
+      ],
+      "keyVocab": [
+        {
+          "word": "structured",
+          "phonetic": "/ˈstrʌk.tʃəd/",
+          "partOfSpeech": "adj",
+          "meaning": "Có cấu trúc chặt chẽ",
+          "status": "correct"
+        },
+        {
+          "word": "situation",
+          "phonetic": "/ˌsɪtʃ.uˈeɪ.ʃən/",
+          "partOfSpeech": "n",
+          "meaning": "Tình huống, hoàn cảnh",
+          "status": "active"
+        },
+        {
+          "word": "tangible",
+          "phonetic": "/ˈtæn.dʒə.bəl/",
+          "partOfSpeech": "adj",
+          "meaning": "Hữu hình, đo lường được",
+          "status": "pending"
+        }
+      ],
+      "level": "Trình độ B2",
+      "paragraphWithBlanks": "When answering behavioral interview questions, the STAR method provides a [structured] approach. You begin by outlining the [situation], explaining decisive actions, and demonstrating [tangible] results.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Phương pháp STAR được dùng nhằm mục đích gì trong buổi phỏng vấn?",
+          "options": [
+            "Cung cấp cấu trúc rõ ràng khi trả lời câu hỏi hành vi",
+            "Giới thiệu bản thân trong vòng 30 giây",
+            "Đàm phán mức lương và phúc lợi công ty",
+            "Kiểm tra kỹ năng lập trình trực tiếp"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Elena khẳng định: STAR method provides a clear structured approach."
+        },
+        {
+          "id": 2,
+          "question": "Yếu tố quan trọng cuối cùng cần chứng minh trong câu trả lời theo STAR là gì?",
+          "options": [
+            "Kết quả cụ thể và hữu hình (tangible results)",
+            "Lời khen từ người quản lý cũ",
+            "Danh sách các bằng cấp học thuật",
+            "Số lượng đồng nghiệp trong nhóm"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Elena nhấn mạnh việc kết thúc bằng: demonstrating tangible results."
+        }
+      ],
+      "section": "Đoạn 01: Phương pháp trả lời câu hỏi hành vi",
+      "speaker": "Elena Rostova",
+      "speakerAvatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150&auto=format&fit=crop&q=80",
+      "speakerRole": "Senior Talent Acquisition Manager",
+      "title": "STAR Method in Tech Job Interviews",
+      "topic": "Career & Tech Interview",
+      "transcript": [
+        {
+          "timestamp": "00:02",
+          "speaker": "Elena Rostova",
+          "text": "When answering behavioral interview questions, the STAR method provides a clear structured approach.",
+          "vietnamese": "Khi trả lời các câu hỏi phỏng vấn hành vi, phương pháp STAR mang lại cách tiếp cận rõ ràng và có cấu trúc."
+        },
+        {
+          "timestamp": "00:15",
+          "speaker": "Elena Rostova",
+          "text": "You begin by outlining the situation, detailing your specific task, explaining the decisive actions you executed, and demonstrating tangible results.",
+          "vietnamese": "Bạn bắt đầu bằng việc phác thảo tình huống, chi tiết hoá nhiệm vụ cụ thể, giải thích các hành động quyết đoán đã thực hiện, và chứng minh kết quả hữu hình."
+        }
+      ]
+    }
+  ],
+  "writingSubmissions": [
+    {
+      "id": "sub_1791620643373",
+      "userId": "user_1791618566904",
+      "topicId": "custom",
+      "topicTitle": "Some people believe that unpaid community service ",
+      "prompt": "Some people believe that unpaid community service should be a compulsory part of high school programmes. To what extent do you agree or disagree?",
+      "content": "hello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\ns",
+      "wordCount": 370,
+      "overallScore": 7.4,
+      "grammarScore": 7,
+      "lexicalScore": 7.5,
+      "coherenceScore": 8,
+      "toneScore": 7,
+      "cefrAssessment": "B1+ Intermediate (Tiềm năng B2)",
+      "errors": [
+        {
+          "type": "Lỗi ngữ pháp & Chính tả",
+          "original": "face to face interaction",
+          "suggestion": "face-to-face interaction",
+          "explanation": "Cụm \"face-to-face\" khi đứng trước danh từ đóng vai trò làm tính từ ghép (compound adjective) bổ nghĩa cho interaction, vì vậy bắt buộc phải có dấu gạch nối (hyphen).",
+          "section": "Đoạn 2"
+        },
+        {
+          "type": "Gợi ý nâng cấp từ vựng",
+          "original": "has some drawbacks",
+          "suggestion": "presents certain limitations",
+          "explanation": "Cụm \"has some drawbacks\" quá phổ thông (A2-B1). Chuyển sang \"presents certain limitations\" hoặc \"is not without its downsides\" giúp câu văn chuẩn chỉnh và mang tính học thuật cao hơn.",
+          "section": "Đoạn 2"
+        },
+        {
+          "type": "Phong cách diễn đạt (Style)",
+          "original": "lonely and isolated",
+          "suggestion": "socially detached",
+          "explanation": "Cặp từ \"lonely and isolated\" hơi thiên về cảm xúc đời thường. Trong bối cảnh công sở hiện đại, thuật ngữ \"socially detached\" hoặc \"professionally isolated\" diễn đạt chính xác tính khách quan.",
+          "section": "Đoạn 2"
+        }
+      ],
+      "vocabUpgrades": [
+        {
+          "original": "manage work-life balance",
+          "suggestion": "maintain an optimal equilibrium between work and personal life",
+          "level": "B2 ➔ C1"
+        },
+        {
+          "original": "saving considerable commuting hours",
+          "suggestion": "eliminating tedious daily commutes",
+          "level": "C1 Collocation"
+        },
+        {
+          "original": "lower creative output",
+          "suggestion": "diminishing collective innovation",
+          "level": "B2 Academic"
+        }
+      ],
+      "polishedEssay": "hello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\nshello   kkkkkkkkkkk \ns\ns\ns\ns\ns\ns\ns\ns",
+      "createdAt": "2026-10-10T08:24:03.373Z"
+    },
+    {
+      "id": "write_sub_01",
+      "userId": "user_minh_thao_01",
+      "topicId": "topic_remote_work",
+      "topicTitle": "Trình bày quan điểm Remote Work",
+      "prompt": "Some people argue that working remotely increases worker productivity, while others believe it creates isolation. Discuss both views and give your opinion.",
+      "content": "Recently, remote working has become increasingly popular in many countries worldwide. In my opinion, working from home provides great flexibility, allowing employees to manage their work-life balance effectively while saving considerable commuting hours each morning.\n\nHowever, it also has some drawbacks. Many team members frequently feel lonely and isolated when they do not have regular face to face interaction with their colleagues, ultimately resulting in reduced mental well-being and lower creative output.\n\nTherefore, a hybrid arrangement seems to be the most optimal compromise for modern organizations.",
+      "wordCount": 142,
+      "overallScore": 7.4,
+      "grammarScore": 7,
+      "lexicalScore": 7.5,
+      "coherenceScore": 8,
+      "toneScore": 7,
+      "cefrAssessment": "B1+ Intermediate (Tiềm năng B2)",
+      "errors": [
+        {
+          "type": "Lỗi ngữ pháp & Chính tả",
+          "original": "face to face interaction",
+          "suggestion": "face-to-face interaction",
+          "explanation": "Cụm \"face-to-face\" khi đứng trước danh từ đóng vai trò làm tính từ ghép (compound adjective) bổ nghĩa cho interaction, vì vậy bắt buộc phải có dấu gạch nối (hyphen).",
+          "section": "Đoạn 2"
+        },
+        {
+          "type": "Gợi ý nâng cấp từ vựng",
+          "original": "has some drawbacks",
+          "suggestion": "presents certain limitations",
+          "explanation": "Cụm \"has some drawbacks\" quá phổ thông (A2-B1). Chuyển sang \"presents certain limitations\" hoặc \"is not without its downsides\" giúp câu văn chuẩn chỉnh và mang tính học thuật cao hơn.",
+          "section": "Đoạn 2"
+        },
+        {
+          "type": "Phong cách diễn đạt (Style)",
+          "original": "lonely and isolated",
+          "suggestion": "socially detached",
+          "explanation": "Cặp từ \"lonely and isolated\" hơi thiên về cảm xúc đời thường. Trong bối cảnh công sở hiện đại, thuật ngữ \"socially detached\" hoặc \"professionally isolated\" diễn đạt chính xác tính khách quan.",
+          "section": "Đoạn 2"
+        }
+      ],
+      "vocabUpgrades": [
+        {
+          "original": "manage work-life balance",
+          "suggestion": "maintain an optimal equilibrium between work and personal life",
+          "level": "B2 ➔ C1"
+        },
+        {
+          "original": "saving considerable commuting hours",
+          "suggestion": "eliminating tedious daily commutes",
+          "level": "C1 Collocation"
+        },
+        {
+          "original": "lower creative output",
+          "suggestion": "diminishing collective innovation",
+          "level": "B2 Academic"
+        }
+      ],
+      "polishedEssay": "Recently, remote working has gained immense prominence worldwide. From my perspective, working from home delivers unparalleled schedule flexibility, empowering professionals to maintain a harmonious work-life equilibrium while eliminating arduous daily commutes.\n\nNonetheless, this model presents certain limitations. Numerous employees experience feeling socially detached in the absence of consistent face-to-face interaction with colleagues, potentially hindering both psychological well-being and collaborative creativity.\n\nConsequently, adopting a structured hybrid model offers the most balanced and sustainable trajectory forward.",
+      "createdAt": "2026-10-10T03:17:50.506Z"
+    }
+  ],
+  "conversations": [
+    {
+      "_id": "6ac9d892c4e2f0e70f22fd71",
+      "id": "conv_1791613074532",
+      "__v": 0,
+      "createdAt": "Sat Oct 10 2026 06:17:54 GMT+0000 (Coordinated Universal Time)",
+      "grammarNotes": [],
+      "messages": [
+        {
+          "id": "msg_starter_1791613074532",
+          "role": "assistant",
+          "content": "Hi there! I'm Alex, your English conversation tutor. How has your week been going so far? Tell me a bit about what you usually like to do in your free time!",
+          "translation": "Chào bạn! Mình là Alex, gia sư đàm thoại tiếng Anh của bạn. Tuần này của bạn thế nào rồi? Hãy chia sẻ một chút về những điều bạn thường thích làm khi rảnh rỗi nhé!",
+          "suggestedAnswers": [
+            "“My week has been quite busy with work, but I enjoy relaxing on weekends.”",
+            "“I usually enjoy listening to podcasts and meeting up with friends.”"
+          ],
+          "timestamp": "06:17",
+          "_id": "6ac9d89277a4196249be3ebe"
+        }
+      ],
+      "score": {
+        "overall": 85,
+        "fluency": 82,
+        "pronunciation": 88,
+        "lexical": 85
+      },
+      "scoredWords": [],
+      "topicBadge": "Daily Conversation",
+      "topicId": "daily_conversation",
+      "topicTitle": "Cuộc sống thường ngày",
+      "tutorAccent": "Bắc Mỹ (Standard US)",
+      "tutorAvatar": "",
+      "tutorName": "Trợ lý AI",
+      "updatedAt": "2026-10-10T06:17:54.586Z",
+      "userId": "user_minh_thao_01"
+    },
+    {
+      "_id": "6ac9d892c4e2f0e70f22fd72",
+      "id": "conv_1791613074616",
+      "__v": 0,
+      "createdAt": "Sat Oct 10 2026 06:17:54 GMT+0000 (Coordinated Universal Time)",
+      "grammarNotes": [],
+      "messages": [
+        {
+          "id": "msg_starter_1791613074616",
+          "role": "assistant",
+          "content": "Hello traveler! Exploring new destinations is such an exciting experience. If you could pack your bags and fly anywhere in the world right now, where would you go first?",
+          "translation": "Xin chào bạn! Khám phá những vùng đất mới luôn là trải nghiệm thật tuyệt vời. Nếu ngay bây giờ có thể xách vali bay đến bất kỳ nơi nào trên thế giới, bạn sẽ chọn đi đâu đầu tiên?",
+          "suggestedAnswers": [
+            "“I would love to visit Japan to explore Tokyo and enjoy the cuisine.”",
+            "“I want to travel to Europe to see the historic architecture and museums.”"
+          ],
+          "timestamp": "06:17",
+          "_id": "6ac9d89277a4196249be3ebf"
+        }
+      ],
+      "score": {
+        "overall": 85,
+        "fluency": 82,
+        "pronunciation": 88,
+        "lexical": 85
+      },
+      "scoredWords": [],
+      "topicBadge": "Travel",
+      "topicId": "travel",
+      "topicTitle": "Du lịch & Khám phá",
+      "tutorAccent": "Bắc Mỹ (Standard US)",
+      "tutorAvatar": "",
+      "tutorName": "Trợ lý AI",
+      "updatedAt": "2026-10-10T06:17:54.622Z",
+      "userId": "user_minh_thao_01"
+    },
+    {
+      "_id": "6ac9d892c4e2f0e70f22fd73",
+      "id": "conv_1791613074633",
+      "__v": 0,
+      "createdAt": "Sat Oct 10 2026 06:17:54 GMT+0000 (Coordinated Universal Time)",
+      "grammarNotes": [],
+      "messages": [
+        {
+          "id": "msg_starter_1791613074633",
+          "role": "assistant",
+          "content": "Hey there! University life can be both exciting and demanding. How are your classes and group projects going this semester? Are you working on anything challenging?",
+          "translation": "Chào bạn! Đời sống sinh viên có rất nhiều điều thú vị và cũng đầy thử thách. Các môn học và bài tập nhóm kỳ này của bạn thế nào rồi? Bạn có đang làm dự án nào khó không?",
+          "suggestedAnswers": [
+            "“My classes are going well, although we have a demanding team project.”",
+            "“I'm currently preparing for mid-term exams in computer science.”"
+          ],
+          "timestamp": "06:17",
+          "_id": "6ac9d89277a4196249be3ec1"
+        }
+      ],
+      "score": {
+        "overall": 85,
+        "fluency": 82,
+        "pronunciation": 88,
+        "lexical": 85
+      },
+      "scoredWords": [],
+      "topicBadge": "University Life",
+      "topicId": "university_life",
+      "topicTitle": "Đời sống sinh viên",
+      "tutorAccent": "Bắc Mỹ (Standard US)",
+      "tutorAvatar": "",
+      "tutorName": "Trợ lý AI",
+      "updatedAt": "2026-10-10T06:17:54.637Z",
+      "userId": "user_minh_thao_01"
+    },
+    {
+      "_id": "6ac9d892c4e2f0e70f22fd74",
+      "id": "conv_1791613074644",
+      "__v": 0,
+      "createdAt": "Sat Oct 10 2026 06:17:54 GMT+0000 (Coordinated Universal Time)",
+      "grammarNotes": [],
+      "messages": [
+        {
+          "id": "msg_starter_1791613074644",
+          "role": "assistant",
+          "content": "Good morning! Thank you for joining our interview today. To start off, could you briefly introduce yourself and share what interests you most about this role?",
+          "translation": "Chào buổi sáng! Cảm ơn bạn đã tham gia buổi phỏng vấn hôm nay. Để bắt đầu, bạn có thể giới thiệu ngắn gọn về bản thân và chia sẻ điều gì thu hút bạn nhất ở vị trí này không?",
+          "suggestedAnswers": [
+            "“Certainly. I'm a software developer with a strong passion for scalable web apps.”",
+            "“I'd be glad to. I have experience building full-stack applications with React.”"
+          ],
+          "timestamp": "06:17",
+          "_id": "6ac9d89277a4196249be3ec3"
+        }
+      ],
+      "score": {
+        "overall": 85,
+        "fluency": 82,
+        "pronunciation": 88,
+        "lexical": 85
+      },
+      "scoredWords": [],
+      "topicBadge": "Job Interviews",
+      "topicId": "job_interviews",
+      "topicTitle": "Phỏng vấn tuyển dụng",
+      "tutorAccent": "Bắc Mỹ (Standard US)",
+      "tutorAvatar": "",
+      "tutorName": "Trợ lý AI",
+      "updatedAt": "2026-10-10T06:17:54.648Z",
+      "userId": "user_minh_thao_01"
+    },
+    {
+      "_id": "6ac9d8b6c4e2f0e70f22fd77",
+      "id": "conv_1791613110898",
+      "__v": 0,
+      "createdAt": "Sat Oct 10 2026 06:18:30 GMT+0000 (Coordinated Universal Time)",
+      "grammarNotes": [],
+      "messages": [
+        {
+          "id": "msg_starter_1791613110898",
+          "role": "assistant",
+          "content": "Hi there! I'm Alex, your English conversation tutor. How has your week been going so far? Tell me a bit about what you usually like to do in your free time!",
+          "translation": "Chào bạn! Mình là Alex, gia sư đàm thoại tiếng Anh của bạn. Tuần này của bạn thế nào rồi? Hãy chia sẻ một chút về những điều bạn thường thích làm khi rảnh rỗi nhé!",
+          "suggestedAnswers": [
+            "“My week has been quite busy with work, but I enjoy relaxing on weekends.”",
+            "“I usually enjoy listening to podcasts and meeting up with friends.”"
+          ],
+          "timestamp": "06:18",
+          "_id": "6ac9d8b677a4196249be3ec6"
+        }
+      ],
+      "score": {
+        "overall": 85,
+        "fluency": 82,
+        "pronunciation": 88,
+        "lexical": 85
+      },
+      "scoredWords": [],
+      "topicBadge": "Daily Conversation",
+      "topicId": "daily_conversation",
+      "topicTitle": "Cuộc sống thường ngày",
+      "tutorAccent": "Bắc Mỹ (Standard US)",
+      "tutorAvatar": "",
+      "tutorName": "Trợ lý AI",
+      "updatedAt": "2026-10-10T06:18:30.902Z",
+      "userId": "user_minh_thao_01"
+    },
+    {
+      "_id": "6ac9d8b6c4e2f0e70f22fd78",
+      "id": "conv_1791613110909",
+      "__v": 0,
+      "createdAt": "Sat Oct 10 2026 06:18:30 GMT+0000 (Coordinated Universal Time)",
+      "grammarNotes": [],
+      "messages": [
+        {
+          "id": "msg_starter_1791613110909",
+          "role": "assistant",
+          "content": "Hello traveler! Exploring new destinations is such an exciting experience. If you could pack your bags and fly anywhere in the world right now, where would you go first?",
+          "translation": "Xin chào bạn! Khám phá những vùng đất mới luôn là trải nghiệm thật tuyệt vời. Nếu ngay bây giờ có thể xách vali bay đến bất kỳ nơi nào trên thế giới, bạn sẽ chọn đi đâu đầu tiên?",
+          "suggestedAnswers": [
+            "“I would love to visit Japan to explore Tokyo and enjoy the cuisine.”",
+            "“I want to travel to Europe to see the historic architecture and museums.”"
+          ],
+          "timestamp": "06:18",
+          "_id": "6ac9d8b677a4196249be3ec7"
+        }
+      ],
+      "score": {
+        "overall": 85,
+        "fluency": 82,
+        "pronunciation": 88,
+        "lexical": 85
+      },
+      "scoredWords": [],
+      "topicBadge": "Travel",
+      "topicId": "travel",
+      "topicTitle": "Du lịch & Khám phá",
+      "tutorAccent": "Bắc Mỹ (Standard US)",
+      "tutorAvatar": "",
+      "tutorName": "Trợ lý AI",
+      "updatedAt": "2026-10-10T06:18:30.913Z",
+      "userId": "user_minh_thao_01"
+    },
+    {
+      "_id": "6ac9d8b6c4e2f0e70f22fd79",
+      "id": "conv_1791613110924",
+      "__v": 0,
+      "createdAt": "Sat Oct 10 2026 06:18:30 GMT+0000 (Coordinated Universal Time)",
+      "grammarNotes": [],
+      "messages": [
+        {
+          "id": "msg_starter_1791613110924",
+          "role": "assistant",
+          "content": "Hey there! University life can be both exciting and demanding. How are your classes and group projects going this semester? Are you working on anything challenging?",
+          "translation": "Chào bạn! Đời sống sinh viên có rất nhiều điều thú vị và cũng đầy thử thách. Các môn học và bài tập nhóm kỳ này của bạn thế nào rồi? Bạn có đang làm dự án nào khó không?",
+          "suggestedAnswers": [
+            "“My classes are going well, although we have a demanding team project.”",
+            "“I'm currently preparing for mid-term exams in computer science.”"
+          ],
+          "timestamp": "06:18",
+          "_id": "6ac9d8b677a4196249be3ec9"
+        }
+      ],
+      "score": {
+        "overall": 85,
+        "fluency": 82,
+        "pronunciation": 88,
+        "lexical": 85
+      },
+      "scoredWords": [],
+      "topicBadge": "University Life",
+      "topicId": "university_life",
+      "topicTitle": "Đời sống sinh viên",
+      "tutorAccent": "Bắc Mỹ (Standard US)",
+      "tutorAvatar": "",
+      "tutorName": "Trợ lý AI",
+      "updatedAt": "2026-10-10T06:18:30.931Z",
+      "userId": "user_minh_thao_01"
+    },
+    {
+      "_id": "6ac9d8b6c4e2f0e70f22fd7a",
+      "id": "conv_1791613110942",
+      "__v": 0,
+      "createdAt": "Sat Oct 10 2026 06:18:30 GMT+0000 (Coordinated Universal Time)",
+      "grammarNotes": [],
+      "messages": [
+        {
+          "id": "msg_starter_1791613110942",
+          "role": "assistant",
+          "content": "Good morning! Thank you for joining our interview today. To start off, could you briefly introduce yourself and share what interests you most about this role?",
+          "translation": "Chào buổi sáng! Cảm ơn bạn đã tham gia buổi phỏng vấn hôm nay. Để bắt đầu, bạn có thể giới thiệu ngắn gọn về bản thân và chia sẻ điều gì thu hút bạn nhất ở vị trí này không?",
+          "suggestedAnswers": [
+            "“Certainly. I'm a software developer with a strong passion for scalable web apps.”",
+            "“I'd be glad to. I have experience building full-stack applications with React.”"
+          ],
+          "timestamp": "06:18",
+          "_id": "6ac9d8ba77a4196249be3ed2"
+        },
+        {
+          "id": "msg_client_01",
+          "role": "user",
+          "content": "Hello! I am having 3 years experience as a software developer, and I am very interesting in this position.",
+          "naturalnessScore": 85,
+          "praise": "Khởi đầu rất tự tin và trực tiếp vào trọng tâm công việc!",
+          "suggestion": "💡 Hãy dùng 'I have 3 years of experience' và 'interested in' thay vì 'interesting'.",
+          "suggestedAnswers": [],
+          "timestamp": "06:18",
+          "_id": "6ac9d8ba77a4196249be3ed3"
+        },
+        {
+          "id": "msg_ai_1791613114297",
+          "role": "assistant",
+          "content": "It's wonderful to meet you, and having solid engineering experience is certainly an asset for our team. Could you walk me through a complex architectural challenge you spearheaded in your previous role?",
+          "translation": "Rất vui được gặp bạn, kinh nghiệm vững chắc về kỹ thuật chắc chắn là một lợi thế lớn cho đội ngũ của chúng tôi. Bạn có thể chia sẻ về một thử thách kiến trúc phức tạp mà bạn từng chủ trì ở vị trí trước đây không?",
+          "suggestedAnswers": [
+            "I led the migration of our legacy monolith to microservices.",
+            "I resolved major database bottlenecks by redesigning our caching layer."
+          ],
+          "timestamp": "06:18",
+          "_id": "6ac9d8ba77a4196249be3ed4"
+        }
+      ],
+      "score": {
+        "overall": 85,
+        "fluency": 82,
+        "pronunciation": 88,
+        "lexical": 85
+      },
+      "scoredWords": [],
+      "topicBadge": "Job Interviews",
+      "topicId": "job_interviews",
+      "topicTitle": "Phỏng vấn tuyển dụng",
+      "tutorAccent": "Bắc Mỹ (Standard US)",
+      "tutorAvatar": "",
+      "tutorName": "Trợ lý AI",
+      "updatedAt": "2026-10-10T06:18:34.302Z",
+      "userId": "user_minh_thao_01"
+    },
+    {
+      "_id": "6ac9d8f1c4e2f0e70f22fd7f",
+      "id": "conv_1791613169902",
+      "__v": 0,
+      "createdAt": "Sat Oct 10 2026 06:19:29 GMT+0000 (Coordinated Universal Time)",
+      "grammarNotes": [],
+      "messages": [
+        {
+          "id": "msg_starter_1791613169902",
+          "role": "assistant",
+          "content": "Hi there! I'm Alex, your English conversation tutor. How has your week been going so far? Tell me a bit about what you usually like to do in your free time!",
+          "translation": "Chào bạn! Mình là Alex, gia sư đàm thoại tiếng Anh của bạn. Tuần này của bạn thế nào rồi? Hãy chia sẻ một chút về những điều bạn thường thích làm khi rảnh rỗi nhé!",
+          "suggestedAnswers": [
+            "“My week has been quite busy with work, but I enjoy relaxing on weekends.”",
+            "“I usually enjoy listening to podcasts and meeting up with friends.”"
+          ],
+          "timestamp": "06:19",
+          "_id": "6ac9d8f177a4196249be3ed8"
+        }
+      ],
+      "score": {
+        "overall": 85,
+        "fluency": 82,
+        "pronunciation": 88,
+        "lexical": 85
+      },
+      "scoredWords": [],
+      "topicBadge": "Daily Conversation",
+      "topicId": "daily_conversation",
+      "topicTitle": "Cuộc sống thường ngày",
+      "tutorAccent": "Bắc Mỹ (Standard US)",
+      "tutorAvatar": "",
+      "tutorName": "Trợ lý AI",
+      "updatedAt": "2026-10-10T06:19:29.905Z",
+      "userId": "user_minh_thao_01"
+    },
+    {
+      "_id": "6ac9d8f1c4e2f0e70f22fd80",
+      "id": "conv_1791613169909",
+      "__v": 0,
+      "createdAt": "Sat Oct 10 2026 06:19:29 GMT+0000 (Coordinated Universal Time)",
+      "grammarNotes": [],
+      "messages": [
+        {
+          "id": "msg_starter_1791613169909",
+          "role": "assistant",
+          "content": "Hello traveler! Exploring new destinations is such an exciting experience. If you could pack your bags and fly anywhere in the world right now, where would you go first?",
+          "translation": "Xin chào bạn! Khám phá những vùng đất mới luôn là trải nghiệm thật tuyệt vời. Nếu ngay bây giờ có thể xách vali bay đến bất kỳ nơi nào trên thế giới, bạn sẽ chọn đi đâu đầu tiên?",
+          "suggestedAnswers": [
+            "“I would love to visit Japan to explore Tokyo and enjoy the cuisine.”",
+            "“I want to travel to Europe to see the historic architecture and museums.”"
+          ],
+          "timestamp": "06:19",
+          "_id": "6ac9d8f177a4196249be3ed9"
+        }
+      ],
+      "score": {
+        "overall": 85,
+        "fluency": 82,
+        "pronunciation": 88,
+        "lexical": 85
+      },
+      "scoredWords": [],
+      "topicBadge": "Travel",
+      "topicId": "travel",
+      "topicTitle": "Du lịch & Khám phá",
+      "tutorAccent": "Bắc Mỹ (Standard US)",
+      "tutorAvatar": "",
+      "tutorName": "Trợ lý AI",
+      "updatedAt": "2026-10-10T06:19:29.912Z",
+      "userId": "user_minh_thao_01"
+    },
+    {
+      "_id": "6ac9d8f1c4e2f0e70f22fd81",
+      "id": "conv_1791613169917",
+      "__v": 0,
+      "createdAt": "Sat Oct 10 2026 06:19:29 GMT+0000 (Coordinated Universal Time)",
+      "grammarNotes": [],
+      "messages": [
+        {
+          "id": "msg_starter_1791613169917",
+          "role": "assistant",
+          "content": "Hey there! University life can be both exciting and demanding. How are your classes and group projects going this semester? Are you working on anything challenging?",
+          "translation": "Chào bạn! Đời sống sinh viên có rất nhiều điều thú vị và cũng đầy thử thách. Các môn học và bài tập nhóm kỳ này của bạn thế nào rồi? Bạn có đang làm dự án nào khó không?",
+          "suggestedAnswers": [
+            "“My classes are going well, although we have a demanding team project.”",
+            "“I'm currently preparing for mid-term exams in computer science.”"
+          ],
+          "timestamp": "06:19",
+          "_id": "6ac9d8f177a4196249be3edb"
+        }
+      ],
+      "score": {
+        "overall": 85,
+        "fluency": 82,
+        "pronunciation": 88,
+        "lexical": 85
+      },
+      "scoredWords": [],
+      "topicBadge": "University Life",
+      "topicId": "university_life",
+      "topicTitle": "Đời sống sinh viên",
+      "tutorAccent": "Bắc Mỹ (Standard US)",
+      "tutorAvatar": "",
+      "tutorName": "Trợ lý AI",
+      "updatedAt": "2026-10-10T06:19:29.920Z",
+      "userId": "user_minh_thao_01"
+    },
+    {
+      "_id": "6ac9d8f1c4e2f0e70f22fd82",
+      "id": "conv_1791613169924",
+      "__v": 0,
+      "createdAt": "Sat Oct 10 2026 06:19:29 GMT+0000 (Coordinated Universal Time)",
+      "grammarNotes": [],
+      "messages": [
+        {
+          "id": "msg_starter_1791613169924",
+          "role": "assistant",
+          "content": "Good morning! Thank you for joining our interview today. To start off, could you briefly introduce yourself and share what interests you most about this role?",
+          "translation": "Chào buổi sáng! Cảm ơn bạn đã tham gia buổi phỏng vấn hôm nay. Để bắt đầu, bạn có thể giới thiệu ngắn gọn về bản thân và chia sẻ điều gì thu hút bạn nhất ở vị trí này không?",
+          "suggestedAnswers": [
+            "“Certainly. I'm a software developer with a strong passion for scalable web apps.”",
+            "“I'd be glad to. I have experience building full-stack applications with React.”"
+          ],
+          "timestamp": "06:19",
+          "_id": "6ac9d8fb77a4196249be3ef2"
+        },
+        {
+          "id": "msg_client_01",
+          "role": "user",
+          "content": "Hello! I am having 3 years experience as a software developer, and I am very interesting in this position.",
+          "naturalnessScore": 85,
+          "praise": "Bạn phản hồi rất nhanh và đúng trọng tâm câu hỏi!",
+          "suggestion": "💡 Thay vì 'I am having / interesting', hãy nói 'I have 3 years of experience' và 'interested in'.",
+          "suggestedAnswers": [],
+          "timestamp": "06:19",
+          "_id": "6ac9d8fb77a4196249be3ef3"
+        },
+        {
+          "id": "msg_ai_1791613179004",
+          "role": "assistant",
+          "content": "It's wonderful to meet you, and three years in software development provides a solid foundation. Given your background, could you highlight a particularly challenging project you spearheaded recently?",
+          "translation": "Rất vui được gặp bạn, và ba năm làm phát triển phần mềm là một nền tảng rất vững chắc. Dựa trên kinh nghiệm đó, bạn có thể chia sẻ về một dự án đầy thử thách mà bạn đã dẫn dắt gần đây không?",
+          "suggestedAnswers": [
+            "I led the migration of our monolithic architecture to microservices.",
+            "I optimized our database queries, reducing latency by forty percent."
+          ],
+          "timestamp": "06:19",
+          "_id": "6ac9d8fb77a4196249be3ef4"
+        },
+        {
+          "id": "msg_user_1791613179024",
+          "role": "user",
+          "content": "Hello! I am having 3 years experience as a software developer, and I am very interesting in this position.",
+          "naturalnessScore": 85,
+          "suggestedAnswers": [],
+          "timestamp": "06:19",
+          "_id": "6ac9d8fb77a4196249be3ef5"
+        },
+        {
+          "id": "msg_user_1791613179495",
+          "role": "user",
+          "content": "My strongest skills are React, Node.js and building full-stack applications.",
+          "naturalnessScore": 85,
+          "suggestedAnswers": [],
+          "timestamp": "06:19",
+          "_id": "6ac9d8fb77a4196249be3ef6"
+        }
+      ],
+      "score": {
+        "overall": 85,
+        "fluency": 82,
+        "pronunciation": 88,
+        "lexical": 85
+      },
+      "scoredWords": [],
+      "topicBadge": "Job Interviews",
+      "topicId": "job_interviews",
+      "topicTitle": "Phỏng vấn tuyển dụng",
+      "tutorAccent": "Bắc Mỹ (Standard US)",
+      "tutorAvatar": "",
+      "tutorName": "Trợ lý AI",
+      "updatedAt": "2026-10-10T06:19:39.498Z",
+      "userId": "user_minh_thao_01"
+    }
+  ],
+  "settings": [
+    {
+      "_id": "6ac9c808b698ef76518ddb25",
+      "userId": "user_minh_thao_01",
+      "speechSpeed": 1,
+      "preferredAccent": "us",
+      "grammarDepth": "detail",
+      "autoParaphrase": true,
+      "dailyReminderEnabled": true,
+      "dailyReminderTime": "20:00",
+      "streakProtectionAlert": true,
+      "weeklyEmailDigest": true,
+      "soundEffects": true,
+      "uiLanguage": "vi",
+      "themeMode": "light",
+      "__v": 0,
+      "createdAt": "2026-10-10T05:07:20.648Z",
+      "updatedAt": "2026-10-10T05:07:20.648Z"
+    },
+    {
+      "_id": "6ac9c808b698ef76518ddb26",
+      "userId": "user_1791604296357",
+      "speechSpeed": 1,
+      "preferredAccent": "us",
+      "grammarDepth": "detail",
+      "autoParaphrase": true,
+      "dailyReminderEnabled": true,
+      "dailyReminderTime": "20:00",
+      "streakProtectionAlert": true,
+      "weeklyEmailDigest": true,
+      "soundEffects": true,
+      "uiLanguage": "vi",
+      "themeMode": "light",
+      "__v": 0,
+      "createdAt": "2026-10-10T05:07:20.648Z",
+      "updatedAt": "2026-10-10T05:07:20.648Z"
+    },
+    {
+      "_id": "6ac9ee69c4e2f0e70f22ff60",
+      "userId": "user_1791618566904",
+      "__v": 0,
+      "autoParaphrase": true,
+      "createdAt": "2026-10-10T07:51:05.688Z",
+      "dailyReminderEnabled": true,
+      "dailyReminderTime": "20:00",
+      "grammarDepth": "detail",
+      "preferredAccent": "us",
+      "soundEffects": true,
+      "speechSpeed": 1,
+      "streakProtectionAlert": true,
+      "themeMode": "light",
+      "uiLanguage": "vi",
+      "updatedAt": "2026-10-10T07:51:05.688Z",
+      "weeklyEmailDigest": true
+    }
+  ],
+  "activities": [
+    {
+      "id": "act_1791622200267",
+      "userId": "user_minh_thao_01",
+      "type": "vocabulary",
+      "title": "Thêm từ vựng mới: \"Innovation\"",
+      "badge": "B2",
+      "scoreText": "+1 Từ mới",
+      "subText": "Sự đổi mới, sáng tạo • Đã lưu vào database",
+      "timestamp": "Vừa xong"
+    },
+    {
+      "_id": "6ac9c808b698ef76518ddb2f",
+      "id": "act_1791607104084",
+      "userId": "user_minh_thao_01",
+      "type": "vocabulary",
+      "title": "Trắc nghiệm từ vựng: 5/5 câu đúng",
+      "badge": "Xuất sắc",
+      "scoreText": "5/5",
+      "subText": "Hoàn thành bài kiểm tra trắc nghiệm từ vựng SRS",
+      "timestamp": "Vừa xong",
+      "__v": 0,
+      "createdAt": "2026-10-10T05:07:20.956Z",
+      "updatedAt": "2026-10-10T05:07:20.956Z"
+    },
+    {
+      "_id": "6ac9c808b698ef76518ddb30",
+      "id": "act_1791607104076",
+      "userId": "user_minh_thao_01",
+      "type": "vocabulary",
+      "title": "Ôn từ vựng SRS: \"Entrepreneurship\"",
+      "badge": "Ghi nhớ tốt",
+      "scoreText": "+15 Điểm",
+      "subText": "Ôn sau 7 ngày",
+      "timestamp": "Vừa xong",
+      "__v": 0,
+      "createdAt": "2026-10-10T05:07:20.957Z",
+      "updatedAt": "2026-10-10T05:07:20.957Z"
+    },
+    {
+      "_id": "6ac9c808b698ef76518ddb31",
+      "id": "act_1791606439065",
+      "userId": "user_minh_thao_01",
+      "type": "listening",
+      "title": "Luyện nghe: \"Luyện nghe chép chính tả & Điền khuyết\"",
+      "badge": "Tốc độ 1.0x",
+      "scoreText": "100%",
+      "subText": "Hoàn thành bài luyện nghe phản xạ & chép chính tả",
+      "timestamp": "Vừa xong",
+      "__v": 0,
+      "createdAt": "2026-10-10T05:07:20.957Z",
+      "updatedAt": "2026-10-10T05:07:20.957Z"
+    },
+    {
+      "_id": "6ac9c808b698ef76518ddb32",
+      "id": "act_1791605827402",
+      "userId": "user_1791605827377",
+      "type": "vocabulary",
+      "title": "Ôn từ vựng SRS: \"Entrepreneurship\"",
+      "badge": "Ghi nhớ tốt",
+      "scoreText": "+15 Điểm",
+      "subText": "Ôn sau 4 ngày",
+      "timestamp": "Vừa xong",
+      "__v": 0,
+      "createdAt": "2026-10-10T05:07:20.957Z",
+      "updatedAt": "2026-10-10T05:07:20.957Z"
+    },
+    {
+      "_id": "6ac9c808b698ef76518ddb33",
+      "id": "act_1791605827389",
+      "userId": "user_1791605827377",
+      "type": "vocabulary",
+      "title": "Thiết lập lộ trình học tập cá nhân hóa",
+      "badge": "A2 Elementary",
+      "scoreText": "Xếp lớp A2",
+      "subText": "15 phút/ngày • 2 kỹ năng trọng tâm",
+      "timestamp": "Vừa xong",
+      "__v": 0,
+      "createdAt": "2026-10-10T05:07:20.957Z",
+      "updatedAt": "2026-10-10T05:07:20.957Z"
+    },
+    {
+      "_id": "6ac9c808b698ef76518ddb34",
+      "id": "act_1791605736551",
+      "userId": "user_1791605736541",
+      "type": "vocabulary",
+      "title": "Thiết lập lộ trình học tập cá nhân hóa",
+      "badge": "A2 Elementary",
+      "scoreText": "Xếp lớp A2",
+      "subText": "15 phút/ngày • 2 kỹ năng trọng tâm",
+      "timestamp": "Vừa xong",
+      "__v": 0,
+      "createdAt": "2026-10-10T05:07:20.957Z",
+      "updatedAt": "2026-10-10T05:07:20.957Z"
+    },
+    {
+      "_id": "6ac9c808b698ef76518ddb35",
+      "id": "act_1791604847287",
+      "userId": "user_1791604847274",
+      "type": "vocabulary",
+      "title": "Thiết lập lộ trình học tập cá nhân hóa",
+      "badge": "A2 Elementary",
+      "scoreText": "Xếp lớp A2",
+      "subText": "30 phút/ngày • 3 kỹ năng trọng tâm",
+      "timestamp": "Vừa xong",
+      "__v": 0,
+      "createdAt": "2026-10-10T05:07:20.957Z",
+      "updatedAt": "2026-10-10T05:07:20.957Z"
+    },
+    {
+      "_id": "6ac9c808b698ef76518ddb36",
+      "id": "act_1791604840689",
+      "userId": "user_minh_thao_01",
+      "type": "vocabulary",
+      "title": "Thiết lập lộ trình học tập cá nhân hóa",
+      "badge": "C1 Advanced",
+      "scoreText": "Xếp lớp C1",
+      "subText": "60 phút/ngày • 2 kỹ năng trọng tâm",
+      "timestamp": "Vừa xong",
+      "__v": 0,
+      "createdAt": "2026-10-10T05:07:20.957Z",
+      "updatedAt": "2026-10-10T05:07:20.957Z"
+    },
+    {
+      "_id": "6ac9c808b698ef76518ddb37",
+      "id": "act_1791604840681",
+      "userId": "user_minh_thao_01",
+      "type": "vocabulary",
+      "title": "Thiết lập lộ trình học tập cá nhân hóa",
+      "badge": "B2 Upper-Intermediate",
+      "scoreText": "Xếp lớp B2",
+      "subText": "45 phút/ngày • 3 kỹ năng trọng tâm",
+      "timestamp": "Vừa xong",
+      "__v": 0,
+      "createdAt": "2026-10-10T05:07:20.957Z",
+      "updatedAt": "2026-10-10T05:07:20.957Z"
+    },
+    {
+      "_id": "6ac9c808b698ef76518ddb38",
+      "id": "act_01",
+      "userId": "user_minh_thao_01",
+      "type": "writing",
+      "title": "Luyện viết AI: \"Remote Work Discussion\"",
+      "badge": "B1 Intermediate",
+      "scoreText": "7.4 / 10",
+      "subText": "142 từ • Hoàn thành hôm nay lúc 10:42",
+      "timestamp": "Hôm nay lúc 10:42",
+      "__v": 0,
+      "createdAt": "2026-10-10T05:07:20.957Z",
+      "updatedAt": "2026-10-10T05:07:20.957Z"
+    },
+    {
+      "_id": "6ac9c808b698ef76518ddb39",
+      "id": "act_02",
+      "userId": "user_minh_thao_01",
+      "type": "conversation",
+      "title": "Gia sư đàm thoại AI: \"Tech Job Interview\"",
+      "badge": "Phản xạ tốt",
+      "scoreText": "85 / 100",
+      "subText": "12 câu phản xạ ngữ cảnh • Hôm qua lúc 19:15",
+      "timestamp": "Hôm qua lúc 19:15",
+      "__v": 0,
+      "createdAt": "2026-10-10T05:07:20.957Z",
+      "updatedAt": "2026-10-10T05:07:20.957Z"
+    },
+    {
+      "_id": "6ac9c808b698ef76518ddb3a",
+      "id": "act_03",
+      "userId": "user_minh_thao_01",
+      "type": "listening",
+      "title": "Nghe chép chính tả: \"AI Integration in Workplace\"",
+      "badge": "Tốc độ 1.0x",
+      "scoreText": "88%",
+      "subText": "Đoạn tin vắn BBC • 2 ngày trước",
+      "timestamp": "2 ngày trước",
+      "__v": 0,
+      "createdAt": "2026-10-10T05:07:20.957Z",
+      "updatedAt": "2026-10-10T05:07:20.957Z"
+    },
+    {
+      "_id": "6ac9c808b698ef76518ddb3b",
+      "id": "act_04",
+      "userId": "user_minh_thao_01",
+      "type": "vocabulary",
+      "title": "Ôn từ vựng SRS: \"Chủ đề Kinh tế & Khởi nghiệp\"",
+      "badge": "20 Flashcards",
+      "scoreText": "16 / 20",
+      "subText": "Ghi nhớ dài hạn • 3 ngày trước",
+      "timestamp": "3 ngày trước",
+      "__v": 0,
+      "createdAt": "2026-10-10T05:07:20.957Z",
+      "updatedAt": "2026-10-10T05:07:20.957Z"
+    },
+    {
+      "_id": "6ac9cd1a97d80f833849edc3",
+      "id": "act_1791610138902",
+      "userId": "user_minh_thao_01",
+      "type": "listening",
+      "title": "Luyện nghe: \"Luyện nghe chép chính tả & Điền khuyết\"",
+      "badge": "Xuất sắc",
+      "scoreText": "80% (4/5)",
+      "subText": "Hoàn thành bài luyện nghe: 1/2 trắc nghiệm, 3/3 chép chính tả",
+      "timestamp": "Vừa xong",
+      "createdAt": "2026-10-10T05:28:58.911Z",
+      "updatedAt": "2026-10-10T05:28:58.911Z",
+      "__v": 0
+    },
+    {
+      "_id": "6ac9cd1a97d80f833849edc4",
+      "id": "act_1791610138914",
+      "userId": "user_minh_thao_01",
+      "type": "listening",
+      "title": "Luyện nghe: \"Luyện nghe chép chính tả & Điền khuyết\"",
+      "badge": "Xuất sắc",
+      "scoreText": "80% (4/5)",
+      "subText": "Hoàn thành bài luyện nghe: 1/2 trắc nghiệm, 3/3 chép chính tả",
+      "timestamp": "Vừa xong",
+      "createdAt": "2026-10-10T05:28:58.917Z",
+      "updatedAt": "2026-10-10T05:28:58.917Z",
+      "__v": 0
+    },
+    {
+      "_id": "6ac9cdb2ff5014874d7fee9d",
+      "id": "act_1791610290597",
+      "userId": "user_minh_thao_01",
+      "type": "listening",
+      "title": "Luyện nghe: \"Luyện nghe chép chính tả & Điền khuyết\"",
+      "badge": "Cần luyện thêm",
+      "scoreText": "20% (1/5)",
+      "subText": "Hoàn thành bài luyện nghe: 1/2 trắc nghiệm, 0/3 chép chính tả",
+      "timestamp": "Vừa xong",
+      "createdAt": "2026-10-10T05:31:30.608Z",
+      "updatedAt": "2026-10-10T05:31:30.608Z",
+      "__v": 0
+    },
+    {
+      "_id": "6ac9cdb2ff5014874d7fee9e",
+      "id": "act_1791610290612",
+      "userId": "user_minh_thao_01",
+      "type": "listening",
+      "title": "Luyện nghe: \"Luyện nghe chép chính tả & Điền khuyết\"",
+      "badge": "Cần luyện thêm",
+      "scoreText": "20% (1/5)",
+      "subText": "Hoàn thành bài luyện nghe: 1/2 trắc nghiệm, 0/3 chép chính tả",
+      "timestamp": "Vừa xong",
+      "createdAt": "2026-10-10T05:31:30.615Z",
+      "updatedAt": "2026-10-10T05:31:30.615Z",
+      "__v": 0
+    },
+    {
+      "_id": "6ac9cdf4ff5014874d7fee9f",
+      "id": "act_1791610356786",
+      "userId": "user_minh_thao_01",
+      "type": "listening",
+      "title": "Luyện nghe: \"Luyện nghe chép chính tả & Điền khuyết\"",
+      "badge": "Xuất sắc",
+      "scoreText": "100% (5/5)",
+      "subText": "Hoàn thành bài luyện nghe: 2/2 trắc nghiệm, 3/3 chép chính tả",
+      "timestamp": "Vừa xong",
+      "createdAt": "2026-10-10T05:32:36.794Z",
+      "updatedAt": "2026-10-10T05:32:36.794Z",
+      "__v": 0
+    },
+    {
+      "_id": "6ac9cdf4ff5014874d7feea0",
+      "id": "act_1791610356799",
+      "userId": "user_minh_thao_01",
+      "type": "listening",
+      "title": "Luyện nghe: \"Luyện nghe chép chính tả & Điền khuyết\"",
+      "badge": "Xuất sắc",
+      "scoreText": "100% (5/5)",
+      "subText": "Hoàn thành bài luyện nghe: 2/2 trắc nghiệm, 3/3 chép chính tả",
+      "timestamp": "Vừa xong",
+      "createdAt": "2026-10-10T05:32:36.803Z",
+      "updatedAt": "2026-10-10T05:32:36.803Z",
+      "__v": 0
+    },
+    {
+      "_id": "6ac9ce0f1d3f526dfb55db32",
+      "id": "act_1791610383244",
+      "userId": "user_minh_thao_01",
+      "type": "listening",
+      "title": "Luyện nghe: \"Product Strategy Meeting at Tech Startup\"",
+      "badge": "Cần luyện thêm",
+      "scoreText": "40% (2/5)",
+      "subText": "Hoàn thành bài luyện nghe: 2/2 trắc nghiệm, 0/3 chép chính tả",
+      "timestamp": "Vừa xong",
+      "createdAt": "2026-10-10T05:33:03.244Z",
+      "updatedAt": "2026-10-10T05:33:03.244Z",
+      "__v": 0
+    },
+    {
+      "_id": "6ac9ee5a15c68df95610c3a7",
+      "id": "act_1791618650823",
+      "userId": "user_1791618566904",
+      "type": "vocabulary",
+      "title": "Thiết lập lộ trình học tập cá nhân hóa",
+      "badge": "A1 Beginner",
+      "scoreText": "Xếp lớp A1",
+      "subText": "60 phút/ngày • 4 kỹ năng trọng tâm",
+      "timestamp": "Vừa xong",
+      "createdAt": "2026-10-10T07:50:50.840Z",
+      "updatedAt": "2026-10-10T07:50:50.840Z",
+      "__v": 0
+    },
+    {
+      "_id": "6ac9f6238e94d77baaf79c4d",
+      "id": "act_1791620643373",
+      "userId": "user_1791618566904",
+      "type": "writing",
+      "title": "Luyện viết AI: \"Some people believe that unpaid community service \"",
+      "badge": "B1+",
+      "scoreText": "7.4 / 10",
+      "subText": "370 từ • 3 góp ý ngữ pháp",
+      "timestamp": "Vừa xong",
+      "createdAt": "2026-10-10T08:24:03.430Z",
+      "updatedAt": "2026-10-10T08:24:03.430Z",
+      "__v": 0
+    }
+  ],
+  "listeningProgress": []
+}

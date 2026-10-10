@@ -1,0 +1,8 @@
+{
+  "name": "LinguaNext",
+  "description": "Nền tảng học tiếng Anh thông minh cùng AI — Tiến bộ tiếng Anh, từng bước cùng AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
